@@ -1,0 +1,98 @@
+﻿Registration Agency,URL,Country,State/Province,Locality,State/Province English,Locality English,Registration Number Format,Last Updated
+北京市市场监督管理局,https://qyxy.scjgj.beijing.gov.cn/,CN,北京市,,Beijing,,^[a-zA-Z0-9]*$,2025/10/28
+北京市东城区市场监督管理局,https://www.bjdch.gov.cn/zwgk/jgdh/qzfzcbmdh/qscjgj/jgzzsgj/201903/t20190322_3018497.html,CN,北京市,东城区,Beijing,Dongcheng District,^[a-zA-Z0-9]*$,2025/10/28
+北京市西城区市场监督管理局,https://www.bjxch.gov.cn/xxgk/jgzn/qgzzfb/xcgsfj.html,CN,北京市,西城区,Beijing,Xicheng District,^[a-zA-Z0-9]*$,2025/10/28
+北京市朝阳区市场监督管理局,http://www.bjchy.gov.cn/affair/govintro/depIndex_hbdw.html?depId=402883c26936af6d01694bc90058001e&sgs=/affair/govintro/402883c26936af6d01694bc90058001e,CN,北京市,朝阳区,Beijing,Chaoyang District,^[a-zA-Z0-9]*$,2025/10/28
+北京市丰台区市场监督管理局,https://www.bjft.gov.cn/ftq/c100003de/jgxxcontent.shtml,CN,北京市,丰台区,Beijing,Fengtai District,^[a-zA-Z0-9]*$,2025/10/28
+北京市石景山区市场监督管理局,https://www.bjsjs.gov.cn/gongkai/qscjgj/jgzn_1122/jgzz_1123/,CN,北京市,石景山区,Beijing,Shijingshan District,^[a-zA-Z0-9]*$,2025/10/28
+北京市海淀区市场监督管理局,https://zyk.bjhd.gov.cn/xxgkzl/zdgk/jgjj/qzfbm/qscjdj/,CN,北京市,海淀区,Beijing,Haidian District,^[a-zA-Z0-9]*$,2025/10/28
+北京市门头沟区市场监督管理局,https://www.bjmtg.gov.cn/bjmtg/zwxx/qscjgj/jbxx/index.shtml,CN,北京市,门头沟区,Beijing,Mentougou District,^[a-zA-Z0-9]*$,2025/10/28
+北京市房山区市场监督管理局,https://www.bjfsh.gov.cn/zfxxgk/2020jgzn/zfbm/qscjdglj_24228/jgxx_24230/201912/t20191204_39986374.shtml,CN,北京市,房山区,Beijing,Fangshan District,^[a-zA-Z0-9]*$,2025/10/28
+北京市通州区市场监督管理局,https://www.bjtzh.gov.cn/bjtz/xxfb/gsfj/jbxx.shtml,CN,北京市,通州区,Beijing,Tongzhou District,^[a-zA-Z0-9]*$,2025/10/28
+北京市顺义区市场监督管理局,https://www.bjshy.gov.cn/web/zwgk/jgxx/qzfwbj/qscjgj/index.html,CN,北京市,顺义区,Beijing,Shunyi District,^[a-zA-Z0-9]*$,2025/10/28
+北京市昌平区市场监督管理局,https://www.bjchp.gov.cn/cpqzf/315734/scjgj/4959012/index.html,CN,北京市,昌平区,Beijing,Changping District,^[a-zA-Z0-9]*$,2025/10/28
+北京市大兴区市场监督管理局,https://www.bjdx.gov.cn/bjsdxqrmzf/zwfw/jgzq/qzfjg/qscjgj/jbxx2/index.html,CN,北京市,大兴区,Beijing,Daxing District,^[a-zA-Z0-9]*$,2025/10/28
+北京市怀柔区市场监督管理局,https://www.bjhr.gov.cn/zwgk/zfxxgkjg/qzfbmdh/qscjgjdh/scjgzn/scjgzz/202005/t20200523_1907102.html,CN,北京市,怀柔区,Beijing,Huairou District,^[a-zA-Z0-9]*$,2025/10/28
+北京市平谷区市场监督管理局,https://www.bjpg.gov.cn/pgqrmzf/bm/scjdglj/697373/697375/index.html,CN,北京市,平谷区,Beijing,Pinggu District,^[a-zA-Z0-9]*$,2025/10/28
+北京市密云区市场监督管理局,https://www.bjmy.gov.cn/zwgk/jgzn/jgznqzfbm/scjgj/,CN,北京市,密云区,Beijing,Miyun District,^[a-zA-Z0-9]*$,2025/10/28
+北京市延庆区市场监督管理局,http://www.bjyq.gov.cn/yanqing/zbmy/2537155/2537156/index.shtml,CN,北京市,延庆区,Beijing,Yanqing District,^[a-zA-Z0-9]*$,2025/10/28
+北京经济技术开发区市场监督管理局,https://kfqgw.beijing.gov.cn/zwgk/jgsz/202002/t20200221_1664154.html,CN,北京市,北京经济技术开发区,Beijing,Beijing Economic and Technological Development Zone,^[a-zA-Z0-9]*$,2025/10/28
+北京市工商行政管理局昌平分局,https://scjgj.beijing.gov.cn/zwxx/,CN,北京市,昌平区,Beijing,Changping District,^[a-zA-Z0-9]*$,2025/10/28
+天津市市场监督管理委员会,https://scjg.tj.gov.cn/,CN,天津市,,Tianjin,,^[a-zA-Z0-9]*$,2025/10/28
+天津市滨海新区市场监督管理局,https://scjg.tj.gov.cn/tjsbhxqscjdglj/,CN,天津市,滨海新区,Tianjin,Binhai New District,^[a-zA-Z0-9]*$,2025/10/28
+天津市和平区市场监督管理局,https://scjg.tj.gov.cn/tjshpqscjdglj/,CN,天津市,和平区,Tianjin,Heping District,^[a-zA-Z0-9]*$,2025/10/28
+天津市河东区市场监督管理局,https://scjg.tj.gov.cn/tjshdqscjdglj/,CN,天津市,河东区,Tianjin,Hedong District,^[a-zA-Z0-9]*$,2025/10/28
+天津市河西区市场监督管理局,https://scjg.tj.gov.cn/tjshxqscjdglj/,CN,天津市,河西区,Tianjin,Hexi District,^[a-zA-Z0-9]*$,2025/10/28
+天津市河北区市场监督管理局,https://scjg.tj.gov.cn/tjshbqscjdglj/,CN,天津市,河北区,Tianjin,Hebei District,^[a-zA-Z0-9]*$,2025/10/28
+天津市南开区市场监督管理局,https://scjg.tj.gov.cn/tjsnkqscjdglj/,CN,天津市,南开区,Tianjin,Nankai District,^[a-zA-Z0-9]*$,2025/10/28
+天津市红桥区市场监督管理局,https://scjg.tj.gov.cn/tjshqqscjdglj/,CN,天津市,红桥区,Tianjin,Hongqiao District,^[a-zA-Z0-9]*$,2025/10/28
+天津市西青区市场监督管理局,https://scjg.tj.gov.cn/tjsxqqscjdglj/,CN,天津市,西青区,Tianjin,Xiqing District,^[a-zA-Z0-9]*$,2025/10/28
+天津市津南区市场监督管理局,https://scjg.tj.gov.cn/tjsjnqscjdglj/,CN,天津市,津南区,Tianjin,Jinnan District,^[a-zA-Z0-9]*$,2025/10/28
+天津市武清区市场监督管理局,https://scjg.tj.gov.cn/tjsscjdglwyh_52651/hdpt/lxwm/,CN,天津市,武清区,Tianjin,Wuqing District,^[a-zA-Z0-9]*$,2026/1/9
+天津市宝坻区市场监督管理局,https://scjg.tj.gov.cn/tjsbcqscjdglj_255/,CN,天津市,宝坻区,Tianjin,Baodi District,^[a-zA-Z0-9]*$,2025/10/28
+天津市宁河区市场监督管理局,https://scjg.tj.gov.cn/tjsnhqscjdglj/,CN,天津市,宁河区,Tianjin,Ninghe District,^[a-zA-Z0-9]*$,2025/10/28
+天津市静海区市场监督管理局,https://scjg.tj.gov.cn/tjsjhqscjdglj/,CN,天津市,静海区,Tianjin,Jinghai District,^[a-zA-Z0-9]*$,2025/10/28
+天津市蓟州区市场监督管理局,https://scjg.tj.gov.cn/tjsjzqscjdglj/,CN,天津市,蓟州区,Tianjin,Jizhou District,^[a-zA-Z0-9]*$,2025/10/28
+天津经济技术开发区市场监督管理局,https://zwfw.tj.gov.cn/#/DepartmentalMatters/120316/TE1203161211600021/3,CN,天津市,天津经济技术开发区,Tianjin,Tianjinjingjijishukaifa District,^[a-zA-Z0-9]*$,2025/10/28
+天津滨海高新技术产业开发区市场监督管理局,https://tht.gov.cn/,CN,天津市,滨海新区高新技术产业开发区,Tianjin,BinhaigaoxinjishuchanyekaifaNew District District,^[a-zA-Z0-9]*$,2025/10/28
+天津市和东丽区市场监督管理局,https://scjg.tj.gov.cn/tjsdlqscjdglj/,CN,天津市,东丽区,Tianjin,Dongli District,^[a-zA-Z0-9]*$,2025/10/28
+天津市北辰区场监督管理局,https://scjg.tj.gov.cn/tjsbcqscjdglj/,CN,天津市,北辰区,Tianjin,Beichen District,^[a-zA-Z0-9]*$,2025/10/28
+天津市自由贸易试验区市场监督管理局,https://scjg.tj.gov.cn/tjsbhxqscjdglj/zwgk_57979/zfgz_57982/gzwj_57983/202007/t20200720_3003484.html,CN,天津市,中国（天津）自由贸易试验区,Tianjin,Zhongguo（tianjin）ziyoumaoyishiyan District,^[a-zA-Z0-9]*$,2025/10/28
+天津市滨海新区行政审批局,https://zwb.tjbh.gov.cn/channels/9938.html,CN,天津市,滨海新区,Tianjin,Binhai New District,^[a-zA-Z0-9]*$,2025/10/28
+中新天津生态城市场监督管理局,https://www.eco-city.gov.cn/p1/scjdglj.html,CN,天津市,中新天津生态城,Tianjin,Zhongxintianjinshengtaicheng,^[a-zA-Z0-9]*$,2025/10/28
+河北省市场监督管理局,https://scjg.hebei.gov.cn/,CN,河北省,,Hebei Province,,^[a-zA-Z0-9]*$,2025/10/28
+石家庄市市场监督管理局,https://scjg.sjz.gov.cn/,CN,河北省,石家庄市,Hebei Province,Shijiazhuang City,^[a-zA-Z0-9]*$,2025/10/28
+石家庄市藁城区市场监督管理局,http://www.gc.gov.cn/columns/7ea6edb7-cd84-4e64-b603-febf1fd7bf3e/202408/13/8a66950d-985e-4e8c-897c-5eca26478e54.html,CN,河北省,藁城区,Hebei Province,Gaocheng District,^[a-zA-Z0-9]*$,2025/10/28
+辛集市市场监督管理局,https://www.xinji.gov.cn/html/sy_jgzn/62912.html,CN,河北省,辛集市,Hebei Province,Xinji City,^[a-zA-Z0-9]*$,2025/10/28
+井陉县市场监督管理局,http://www.sjzjx.gov.cn/columns/4047c0c0-c242-4460-b45e-cf807e5d43fc/202002/28/ef0e82d1-c2cc-4aa3-bbcf-cd0bc20ec68c.html,CN,河北省,井陉县,Hebei Province,Jingxing County,^[a-zA-Z0-9]*$,2025/10/28
+正定县市场监督管理局,http://www.zd.gov.cn/columns/a3643706-b93e-4c55-9b00-4c1d668f5fd2/202007/17/052c6574-2efe-465f-a84c-8341b178fe8c.html,CN,河北省,正定县,Hebei Province,Zhengding County,^[a-zA-Z0-9]*$,2025/10/28
+无极县市场监督管理局,http://www.wuji.gov.cn/columns/6b822382-6f36-42a1-ae4a-520afc031c9c/202409/19/55d082ae-0ac4-4df4-8410-c431e1d438bc.html,CN,河北省,无极县,Hebei Province,Wuji County,^[a-zA-Z0-9]*$,2025/10/28
+石家庄市市场监督管理局综合保税区分局,https://www.sjzzhbsq.gov.cn/columns/044679dc-9963-4425-9658-e1b0b2835ac3/202306/19/6ae1a02b-5ed5-4f6a-9a08-7011070d0a99.html,CN,河北省,石家庄市,Hebei Province,Shijiazhuang City,^[a-zA-Z0-9]*$,2025/10/28
+唐山市市场监督管理局,https://scjdglj.tangshan.gov.cn/,CN,河北省,唐山市,Hebei Province,Tangshan City,^[a-zA-Z0-9]*$,2025/10/28
+唐山市路北区市场监督管理局,http://www.tslb.gov.cn/index.php?a=show&catid=360&id=16286,CN,河北省,路北区,Hebei Province,Lubei District,^[a-zA-Z0-9]*$,2025/10/28
+唐山市古冶区市场监督管理局,http://www.guye.gov.cn/guye/guyejgzn/20230112/906514.html,CN,河北省,古冶区,Hebei Province,Guye District,^[a-zA-Z0-9]*$,2025/10/28
+唐山市丰南区市场监督管理局,https://www.fengnanqu.gov.cn/tsfengnan/tsfengnanzhiquanmulu/20250826/1211603883.html,CN,河北省,丰南区,Hebei Province,Fengnan District,^[a-zA-Z0-9]*$,2025/10/28
+唐山市丰润区市场监督管理局,http://www.fengrun.gov.cn/fengrun/fengrunjgzn/20240802/1501596266.html,CN,河北省,丰润区,Hebei Province,Fengrun District,^[a-zA-Z0-9]*$,2025/10/28
+唐山市路南区市场监督管理局,http://www.lunan.gov.cn/lunanqu/lunanjgzn/20250904/1211605035.html,CN,河北省,路南区,Hebei Province,Lunan District,^[a-zA-Z0-9]*$,2025/10/28
+唐山市曹妃甸区市场监督管理局,https://www.caofeidian.gov.cn/caofeidian/cfd_jgzn/20250808/1062960.html,CN,河北省,曹妃甸区,Hebei Province,Caofeidian District,^[a-zA-Z0-9]*$,2025/10/28
+遵化市市场监督管理局,http://www.zunhua.gov.cn/zunhua/zunhuajgzn/20211109/883440.html,CN,河北省,遵化市,Hebei Province,Zunhua City,^[a-zA-Z0-9]*$,2025/10/28
+迁安市市场监督管理局,http://www.qianan.gov.cn/content/79675.html,CN,河北省,迁安市,Hebei Province,Qian'an City,^[a-zA-Z0-9]*$,2025/10/28
+滦州市市场监督管理局,http://www.luanxian.gov.cn/index.php?m=content&c=index&a=show&catid=922&id=95119,CN,河北省,滦州市,Hebei Province,Luanzhou City,^[a-zA-Z0-9]*$,2025/10/28
+乐亭县市场监督管理局,https://www.laoting.gov.cn/laoting/ltscjdglj/20231124/1191575531.html,CN,河北省,乐亭县,Hebei Province,Laoting County,^[a-zA-Z0-9]*$,2025/10/28
+迁西县市场监督管理局,https://www.qianxi.gov.cn/qianxi/jgzn/20240728/1074888.html,CN,河北省,迁西县,Hebei Province,Qianxi County,^[a-zA-Z0-9]*$,2025/10/28
+玉田县市场监督管理局,https://www.yutian.gov.cn/yutian/tsyutianzfjg/20250811/1211602770.html,CN,河北省,玉田县,Hebei Province,Yutian County,^[a-zA-Z0-9]*$,2025/10/28
+秦皇岛市市场监督管理局,https://scj.qhd.gov.cn,CN,河北省,秦皇岛市,Hebei Province,Qinhuangdao City,^[a-zA-Z0-9]*$,2025/10/28
+秦皇岛市海港区市场监督管理局,https://www.hbzwfw.gov.cn/hbzw/threesxcx/itemList/xz_index.do?webId=53&deptid=,CN,河北省,海港区,Hebei Province,Haigang District,^[a-zA-Z0-9]*$,2025/10/28
+秦皇岛北戴河新区市场监督管理局,https://www.beidaihe.gov.cn/single/89/42231.html,CN,河北省,秦皇岛北戴河新区,Hebei Province,Qinhuangdaobeidaihexin District,^[a-zA-Z0-9]*$,2025/10/28
+昌黎县市场监督管理局,https://www.clxzf.gov.cn/single/9/26148.html,CN,河北省,昌黎县,Hebei Province,Changli County,^[a-zA-Z0-9]*$,2025/10/28
+邯郸市市场监督管理局,https://scjg.hd.gov.cn/,CN,河北省,邯郸市,Hebei Province,Handan City,^[a-zA-Z0-9]*$,2025/10/28
+邯郸市峰峰矿区市场监督管理局,http://www.ff.gov.cn/ffkqxxgk/bmxx/qzfxt/qscjdj/202402/t20240205_2020646.html,CN,河北省,峰峰矿区,Hebei Province,Fengfengkuang District,^[a-zA-Z0-9]*$,2025/10/28
+武安市市场监督管理局,http://www.wuan.gov.cn/wasxxgk/zfxxgk/zf/sscjdglj/fdzdgknr_35174/jgzz_35649/202502/t20250207_2104837.html,CN,河北省,武安市,Hebei Province,Wu'an City,^[a-zA-Z0-9]*$,2025/10/28
+魏县市场监督管理局,https://www.wei.gov.cn/xxgk/showone.php?cid=6&authorid=69,CN,河北省,魏县,Hebei Province,Wei County,^[a-zA-Z0-9]*$,2025/10/28
+邢台市市场监督管理局,https://scjg.xingtai.gov.cn/,CN,河北省,邢台市,Hebei Province,Xingtai City,^[a-zA-Z0-9]*$,2025/10/28
+宁晋县市场监督管理局,https://www.ningjin.gov.cn/xxgk/gkzn.jsp?orgCode=001001046&classId=11043,CN,河北省,宁晋县,Hebei Province,Ningjin County,^[a-zA-Z0-9]*$,2025/10/28
+清河县市场监督管理局,http://info.qinghexian.gov.cn/content/13261.html,CN,河北省,清河县,Hebei Province,Qinghe County,^[a-zA-Z0-9]*$,2025/10/28
+保定市市场监督管理局,https://scjgj.baoding.gov.cn/,CN,河北省,保定市,Hebei Province,Baoding City,^[a-zA-Z0-9]*$,2025/10/28
+定州市市场监督管理局,http://www.dzs.gov.cn/col/1598580793310/2021/12/10/1639127881633.html,CN,河北省,定州市,Hebei Province,Dingzhou City,^[a-zA-Z0-9]*$,2025/10/28
+涿州市市场监督管理局,https://www.zhuozhou.gov.cn/zzgxportal/inforcontent_new.jsp?contentsid=1742049211826&title=%25E6%25B6%25BF%25E5%25B7%259E%25E5%25B8%2582%25E5%25B8%2582%25E5%259C%25BA%25E7%259B%2591%25E7%259D%25A3%25E7%25AE%25A1%25E7%2590%2586%25E5%25B1%2580%25E6%2594%25BF%25E5%25BA%259C%25E4%25BF%25A1%25E6%2581%25AF%25E5%2585%25AC%25E5%25BC%2580%25E6%258C%2587%25E5%258D%2597&createtime=2025-03-17,CN,河北省,涿州市,Hebei Province,Zhuozhou City,^[a-zA-Z0-9]*$,2025/10/28
+张家口市市场监督管理局,http://scjg.zjk.gov.cn,CN,河北省,张家口市,Hebei Province,Zhangjiakou City,^[a-zA-Z0-9]*$,2025/10/28
+怀来县市场监督管理局,http://www.huailai.gov.cn/single/73/51617.html,CN,河北省,怀来县,Hebei Province,Huailai County,^[a-zA-Z0-9]*$,2025/10/28
+承德市市场监督管理局,https://www.chengde.gov.cn/art/2023/1/26/art_9938_682559.html,CN,河北省,承德市,Hebei Province,Chengde City,^[a-zA-Z0-9]*$,2025/10/28
+平泉市市场监督管理局,https://www.pingquan.gov.cn/art/2025/3/26/art_10975_1059918.html,CN,河北省,平泉市,Hebei Province,Pingquan City,^[a-zA-Z0-9]*$,2025/10/28
+沧州市市场监督管理局,http://scjgj.cangzhou.gov.cn,CN,河北省,沧州市,Hebei Province,Cangzhou City,^[a-zA-Z0-9]*$,2025/10/28
+任丘市市场监督管理局,https://www.renqiu.gov.cn/renqiu/zwzfjg/202301/f09a6b7f33da47c78b6fc58f4fd49cd8.shtml,CN,河北省,任丘市,Hebei Province,Renqiu City,^[a-zA-Z0-9]*$,2025/10/28
+黄骅市市场监督管理局,http://www.huanghua.gov.cn/huanghua/c108933/202506/b15a516cee0548a595e600cbe27ef20f.shtml,CN,河北省,黄骅市,Hebei Province,Huanghua City,^[a-zA-Z0-9]*$,2025/10/28
+沧州渤海新区市场监督管理局,http://www.huanghua.gov.cn/huanghua/c108936/202310/5b71eff404344e3cab76a37f56e3ad33.shtml,CN,河北省,沧州渤海新区,Hebei Province,Cangzhoubohaixin District,^[a-zA-Z0-9]*$,2025/10/28
+廊坊市市场监督管理局,https://zfxxgk.lf.gov.cn/GKZN?deptId=39558,CN,河北省,廊坊市,Hebei Province,Langfang City,^[a-zA-Z0-9]*$,2025/10/28
+霸州市市场监督管理局,https://www.bazhou.gov.cn/infopublicity/department/show/58,CN,河北省,霸州市,Hebei Province,Bazhou City,^[a-zA-Z0-9]*$,2025/10/28
+三河市市场监督管理局,http://xxgk.san-he.gov.cn/Contentx?articleid=17094456018347008,CN,河北省,三河市,Hebei Province,Sanhe City,^[a-zA-Z0-9]*$,2025/10/28
+永清县市场监督管理局,https://www.yongqing.gov.cn/zfxxgkml/fdzdgknr/gkxx/dqhyjs/2024-10-08/28971.html,CN,河北省,永清县,Hebei Province,Yongqing County,^[a-zA-Z0-9]*$,2025/10/28
+香河县市场监督管理局,http://xxgk.xianghe.gov.cn:8088/index.do?templet=content_new&id={0A2E17A6-0000-0000-2BA0-20BE00000017},CN,河北省,香河县,Hebei Province,Xianghe County,^[a-zA-Z0-9]*$,2025/10/28
+衡水市市场监督管理局,https://scjgj.hengshui.gov.cn/,CN,河北省,衡水市,Hebei Province,Hengshui City,^[a-zA-Z0-9]*$,2025/10/28
+邢台市任泽区人民政府,https://www.renze.gov.cn,CN,河北省,任泽区,Hebei Province,Renze District,^[a-zA-Z0-9]*$,2025/10/28
+衡水市安平县市场监督管理局,http://xxgk.hengshui.gov.cn/apx/bm76/apxscjdglj/fdzdgknr7336/jgjj5942/2947257/index.html,CN,河北省,安平县,Hebei Province,Anping County,^[a-zA-Z0-9]*$,2025/10/28
+徐汇区市场监督管理局,https://www.xuhui.gov.cn/gongshangfenju/,CN,上海市,徐汇区,Shanghai,Xuhui District,^[a-zA-Z0-9]*$,2025/10/29
+尤溪县市场监督管理局,https://www.fjyx.gov.cn/zwgk/jgzn/xzfgzjg_22049/yxxscjdglj/,CN,福建省,尤溪县,Fujian Province,Youxi County,^[a-zA-Z0-9]*$,2025/12/17
+广州市荔湾区市场监督管理局,https://www.lw.gov.cn/zwgkkgzjg/zfxt/qscjdglj/jbxx/,CN,广东省,荔湾区,Guangdong Province,Liwan District,^[a-zA-Z0-9]*$,2025/12/25
+桃源县市场监督管理局,https://www.taoyuan.gov.cn/zwgk/public/6616339/1133321451.html,CN,湖南省,桃园县,Hunan Province,Taoyuan County,^[a-zA-Z0-9]*$,2025/12/29
+桐乡市市场监督管理局,http://www.tx.gov.cn/art/2020/10/22/art_1229401710_97863.html,CN,浙江省,桐乡市,Zhejiang Province,Tongxiang City,^[a-zA-Z0-9]*$,2025/12/30
