@@ -1,98 +1,99 @@
-ï»¿Registration Agency,URL,Country,State/Province,Locality,State/Province English,Locality English,Registration Number Format,Last Updated
-åŒ—äº¬å¸‚å¸‚åœºç›‘ç£ç®¡ç†å±€,https://qyxy.scjgj.beijing.gov.cn/,CN,åŒ—äº¬å¸‚,,Beijing,,^[a-zA-Z0-9]*$,2025/10/28
-åŒ—äº¬å¸‚ä¸œåŸåŒºå¸‚åœºç›‘ç£ç®¡ç†å±€,https://www.bjdch.gov.cn/zwgk/jgdh/qzfzcbmdh/qscjgj/jgzzsgj/201903/t20190322_3018497.html,CN,åŒ—äº¬å¸‚,ä¸œåŸåŒº,Beijing,Dongcheng District,^[a-zA-Z0-9]*$,2025/10/28
-åŒ—äº¬å¸‚è¥¿åŸåŒºå¸‚åœºç›‘ç£ç®¡ç†å±€,https://www.bjxch.gov.cn/xxgk/jgzn/qgzzfb/xcgsfj.html,CN,åŒ—äº¬å¸‚,è¥¿åŸåŒº,Beijing,Xicheng District,^[a-zA-Z0-9]*$,2025/10/28
-åŒ—äº¬å¸‚æœé˜³åŒºå¸‚åœºç›‘ç£ç®¡ç†å±€,http://www.bjchy.gov.cn/affair/govintro/depIndex_hbdw.html?depId=402883c26936af6d01694bc90058001e&sgs=/affair/govintro/402883c26936af6d01694bc90058001e,CN,åŒ—äº¬å¸‚,æœé˜³åŒº,Beijing,Chaoyang District,^[a-zA-Z0-9]*$,2025/10/28
-åŒ—äº¬å¸‚ä¸°å°åŒºå¸‚åœºç›‘ç£ç®¡ç†å±€,https://www.bjft.gov.cn/ftq/c100003de/jgxxcontent.shtml,CN,åŒ—äº¬å¸‚,ä¸°å°åŒº,Beijing,Fengtai District,^[a-zA-Z0-9]*$,2025/10/28
-åŒ—äº¬å¸‚çŸ³æ™¯å±±åŒºå¸‚åœºç›‘ç£ç®¡ç†å±€,https://www.bjsjs.gov.cn/gongkai/qscjgj/jgzn_1122/jgzz_1123/,CN,åŒ—äº¬å¸‚,çŸ³æ™¯å±±åŒº,Beijing,Shijingshan District,^[a-zA-Z0-9]*$,2025/10/28
-åŒ—äº¬å¸‚æµ·æ·€åŒºå¸‚åœºç›‘ç£ç®¡ç†å±€,https://zyk.bjhd.gov.cn/xxgkzl/zdgk/jgjj/qzfbm/qscjdj/,CN,åŒ—äº¬å¸‚,æµ·æ·€åŒº,Beijing,Haidian District,^[a-zA-Z0-9]*$,2025/10/28
-åŒ—äº¬å¸‚é—¨å¤´æ²ŸåŒºå¸‚åœºç›‘ç£ç®¡ç†å±€,https://www.bjmtg.gov.cn/bjmtg/zwxx/qscjgj/jbxx/index.shtml,CN,åŒ—äº¬å¸‚,é—¨å¤´æ²ŸåŒº,Beijing,Mentougou District,^[a-zA-Z0-9]*$,2025/10/28
-åŒ—äº¬å¸‚æˆ¿å±±åŒºå¸‚åœºç›‘ç£ç®¡ç†å±€,https://www.bjfsh.gov.cn/zfxxgk/2020jgzn/zfbm/qscjdglj_24228/jgxx_24230/201912/t20191204_39986374.shtml,CN,åŒ—äº¬å¸‚,æˆ¿å±±åŒº,Beijing,Fangshan District,^[a-zA-Z0-9]*$,2025/10/28
-åŒ—äº¬å¸‚é€šå·åŒºå¸‚åœºç›‘ç£ç®¡ç†å±€,https://www.bjtzh.gov.cn/bjtz/xxfb/gsfj/jbxx.shtml,CN,åŒ—äº¬å¸‚,é€šå·åŒº,Beijing,Tongzhou District,^[a-zA-Z0-9]*$,2025/10/28
-åŒ—äº¬å¸‚é¡ºä¹‰åŒºå¸‚åœºç›‘ç£ç®¡ç†å±€,https://www.bjshy.gov.cn/web/zwgk/jgxx/qzfwbj/qscjgj/index.html,CN,åŒ—äº¬å¸‚,é¡ºä¹‰åŒº,Beijing,Shunyi District,^[a-zA-Z0-9]*$,2025/10/28
-åŒ—äº¬å¸‚æ˜Œå¹³åŒºå¸‚åœºç›‘ç£ç®¡ç†å±€,https://www.bjchp.gov.cn/cpqzf/315734/scjgj/4959012/index.html,CN,åŒ—äº¬å¸‚,æ˜Œå¹³åŒº,Beijing,Changping District,^[a-zA-Z0-9]*$,2025/10/28
-åŒ—äº¬å¸‚å¤§å…´åŒºå¸‚åœºç›‘ç£ç®¡ç†å±€,https://www.bjdx.gov.cn/bjsdxqrmzf/zwfw/jgzq/qzfjg/qscjgj/jbxx2/index.html,CN,åŒ—äº¬å¸‚,å¤§å…´åŒº,Beijing,Daxing District,^[a-zA-Z0-9]*$,2025/10/28
-åŒ—äº¬å¸‚æ€€æŸ”åŒºå¸‚åœºç›‘ç£ç®¡ç†å±€,https://www.bjhr.gov.cn/zwgk/zfxxgkjg/qzfbmdh/qscjgjdh/scjgzn/scjgzz/202005/t20200523_1907102.html,CN,åŒ—äº¬å¸‚,æ€€æŸ”åŒº,Beijing,Huairou District,^[a-zA-Z0-9]*$,2025/10/28
-åŒ—äº¬å¸‚å¹³è°·åŒºå¸‚åœºç›‘ç£ç®¡ç†å±€,https://www.bjpg.gov.cn/pgqrmzf/bm/scjdglj/697373/697375/index.html,CN,åŒ—äº¬å¸‚,å¹³è°·åŒº,Beijing,Pinggu District,^[a-zA-Z0-9]*$,2025/10/28
-åŒ—äº¬å¸‚å¯†äº‘åŒºå¸‚åœºç›‘ç£ç®¡ç†å±€,https://www.bjmy.gov.cn/zwgk/jgzn/jgznqzfbm/scjgj/,CN,åŒ—äº¬å¸‚,å¯†äº‘åŒº,Beijing,Miyun District,^[a-zA-Z0-9]*$,2025/10/28
-åŒ—äº¬å¸‚å»¶åº†åŒºå¸‚åœºç›‘ç£ç®¡ç†å±€,http://www.bjyq.gov.cn/yanqing/zbmy/2537155/2537156/index.shtml,CN,åŒ—äº¬å¸‚,å»¶åº†åŒº,Beijing,Yanqing District,^[a-zA-Z0-9]*$,2025/10/28
-åŒ—äº¬ç»æµæŠ€æœ¯å¼€å‘åŒºå¸‚åœºç›‘ç£ç®¡ç†å±€,https://kfqgw.beijing.gov.cn/zwgk/jgsz/202002/t20200221_1664154.html,CN,åŒ—äº¬å¸‚,åŒ—äº¬ç»æµæŠ€æœ¯å¼€å‘åŒº,Beijing,Beijing Economic and Technological Development Zone,^[a-zA-Z0-9]*$,2025/10/28
-åŒ—äº¬å¸‚å·¥å•†è¡Œæ”¿ç®¡ç†å±€æ˜Œå¹³åˆ†å±€,https://scjgj.beijing.gov.cn/zwxx/,CN,åŒ—äº¬å¸‚,æ˜Œå¹³åŒº,Beijing,Changping District,^[a-zA-Z0-9]*$,2025/10/28
-å¤©æ´¥å¸‚å¸‚åœºç›‘ç£ç®¡ç†å§”å‘˜ä¼š,https://scjg.tj.gov.cn/,CN,å¤©æ´¥å¸‚,,Tianjin,,^[a-zA-Z0-9]*$,2025/10/28
-å¤©æ´¥å¸‚æ»¨æµ·æ–°åŒºå¸‚åœºç›‘ç£ç®¡ç†å±€,https://scjg.tj.gov.cn/tjsbhxqscjdglj/,CN,å¤©æ´¥å¸‚,æ»¨æµ·æ–°åŒº,Tianjin,Binhai New District,^[a-zA-Z0-9]*$,2025/10/28
-å¤©æ´¥å¸‚å’Œå¹³åŒºå¸‚åœºç›‘ç£ç®¡ç†å±€,https://scjg.tj.gov.cn/tjshpqscjdglj/,CN,å¤©æ´¥å¸‚,å’Œå¹³åŒº,Tianjin,Heping District,^[a-zA-Z0-9]*$,2025/10/28
-å¤©æ´¥å¸‚æ²³ä¸œåŒºå¸‚åœºç›‘ç£ç®¡ç†å±€,https://scjg.tj.gov.cn/tjshdqscjdglj/,CN,å¤©æ´¥å¸‚,æ²³ä¸œåŒº,Tianjin,Hedong District,^[a-zA-Z0-9]*$,2025/10/28
-å¤©æ´¥å¸‚æ²³è¥¿åŒºå¸‚åœºç›‘ç£ç®¡ç†å±€,https://scjg.tj.gov.cn/tjshxqscjdglj/,CN,å¤©æ´¥å¸‚,æ²³è¥¿åŒº,Tianjin,Hexi District,^[a-zA-Z0-9]*$,2025/10/28
-å¤©æ´¥å¸‚æ²³åŒ—åŒºå¸‚åœºç›‘ç£ç®¡ç†å±€,https://scjg.tj.gov.cn/tjshbqscjdglj/,CN,å¤©æ´¥å¸‚,æ²³åŒ—åŒº,Tianjin,Hebei District,^[a-zA-Z0-9]*$,2025/10/28
-å¤©æ´¥å¸‚å—å¼€åŒºå¸‚åœºç›‘ç£ç®¡ç†å±€,https://scjg.tj.gov.cn/tjsnkqscjdglj/,CN,å¤©æ´¥å¸‚,å—å¼€åŒº,Tianjin,Nankai District,^[a-zA-Z0-9]*$,2025/10/28
-å¤©æ´¥å¸‚çº¢æ¡¥åŒºå¸‚åœºç›‘ç£ç®¡ç†å±€,https://scjg.tj.gov.cn/tjshqqscjdglj/,CN,å¤©æ´¥å¸‚,çº¢æ¡¥åŒº,Tianjin,Hongqiao District,^[a-zA-Z0-9]*$,2025/10/28
-å¤©æ´¥å¸‚è¥¿é’åŒºå¸‚åœºç›‘ç£ç®¡ç†å±€,https://scjg.tj.gov.cn/tjsxqqscjdglj/,CN,å¤©æ´¥å¸‚,è¥¿é’åŒº,Tianjin,Xiqing District,^[a-zA-Z0-9]*$,2025/10/28
-å¤©æ´¥å¸‚æ´¥å—åŒºå¸‚åœºç›‘ç£ç®¡ç†å±€,https://scjg.tj.gov.cn/tjsjnqscjdglj/,CN,å¤©æ´¥å¸‚,æ´¥å—åŒº,Tianjin,Jinnan District,^[a-zA-Z0-9]*$,2025/10/28
-å¤©æ´¥å¸‚æ­¦æ¸…åŒºå¸‚åœºç›‘ç£ç®¡ç†å±€,https://scjg.tj.gov.cn/tjsscjdglwyh_52651/hdpt/lxwm/,CN,å¤©æ´¥å¸‚,æ­¦æ¸…åŒº,Tianjin,Wuqing District,^[a-zA-Z0-9]*$,2026/1/9
-å¤©æ´¥å¸‚å®å»åŒºå¸‚åœºç›‘ç£ç®¡ç†å±€,https://scjg.tj.gov.cn/tjsbcqscjdglj_255/,CN,å¤©æ´¥å¸‚,å®å»åŒº,Tianjin,Baodi District,^[a-zA-Z0-9]*$,2025/10/28
-å¤©æ´¥å¸‚å®æ²³åŒºå¸‚åœºç›‘ç£ç®¡ç†å±€,https://scjg.tj.gov.cn/tjsnhqscjdglj/,CN,å¤©æ´¥å¸‚,å®æ²³åŒº,Tianjin,Ninghe District,^[a-zA-Z0-9]*$,2025/10/28
-å¤©æ´¥å¸‚é™æµ·åŒºå¸‚åœºç›‘ç£ç®¡ç†å±€,https://scjg.tj.gov.cn/tjsjhqscjdglj/,CN,å¤©æ´¥å¸‚,é™æµ·åŒº,Tianjin,Jinghai District,^[a-zA-Z0-9]*$,2025/10/28
-å¤©æ´¥å¸‚è“Ÿå·åŒºå¸‚åœºç›‘ç£ç®¡ç†å±€,https://scjg.tj.gov.cn/tjsjzqscjdglj/,CN,å¤©æ´¥å¸‚,è“Ÿå·åŒº,Tianjin,Jizhou District,^[a-zA-Z0-9]*$,2025/10/28
-å¤©æ´¥ç»æµæŠ€æœ¯å¼€å‘åŒºå¸‚åœºç›‘ç£ç®¡ç†å±€,https://zwfw.tj.gov.cn/#/DepartmentalMatters/120316/TE1203161211600021/3,CN,å¤©æ´¥å¸‚,å¤©æ´¥ç»æµæŠ€æœ¯å¼€å‘åŒº,Tianjin,Tianjinjingjijishukaifa District,^[a-zA-Z0-9]*$,2025/10/28
-å¤©æ´¥æ»¨æµ·é«˜æ–°æŠ€æœ¯äº§ä¸šå¼€å‘åŒºå¸‚åœºç›‘ç£ç®¡ç†å±€,https://tht.gov.cn/,CN,å¤©æ´¥å¸‚,æ»¨æµ·æ–°åŒºé«˜æ–°æŠ€æœ¯äº§ä¸šå¼€å‘åŒº,Tianjin,BinhaigaoxinjishuchanyekaifaNew District District,^[a-zA-Z0-9]*$,2025/10/28
-å¤©æ´¥å¸‚å’Œä¸œä¸½åŒºå¸‚åœºç›‘ç£ç®¡ç†å±€,https://scjg.tj.gov.cn/tjsdlqscjdglj/,CN,å¤©æ´¥å¸‚,ä¸œä¸½åŒº,Tianjin,Dongli District,^[a-zA-Z0-9]*$,2025/10/28
-å¤©æ´¥å¸‚åŒ—è¾°åŒºåœºç›‘ç£ç®¡ç†å±€,https://scjg.tj.gov.cn/tjsbcqscjdglj/,CN,å¤©æ´¥å¸‚,åŒ—è¾°åŒº,Tianjin,Beichen District,^[a-zA-Z0-9]*$,2025/10/28
-å¤©æ´¥å¸‚è‡ªç”±è´¸æ˜“è¯•éªŒåŒºå¸‚åœºç›‘ç£ç®¡ç†å±€,https://scjg.tj.gov.cn/tjsbhxqscjdglj/zwgk_57979/zfgz_57982/gzwj_57983/202007/t20200720_3003484.html,CN,å¤©æ´¥å¸‚,ä¸­å›½ï¼ˆå¤©æ´¥ï¼‰è‡ªç”±è´¸æ˜“è¯•éªŒåŒº,Tianjin,Zhongguoï¼ˆtianjinï¼‰ziyoumaoyishiyan District,^[a-zA-Z0-9]*$,2025/10/28
-å¤©æ´¥å¸‚æ»¨æµ·æ–°åŒºè¡Œæ”¿å®¡æ‰¹å±€,https://zwb.tjbh.gov.cn/channels/9938.html,CN,å¤©æ´¥å¸‚,æ»¨æµ·æ–°åŒº,Tianjin,Binhai New District,^[a-zA-Z0-9]*$,2025/10/28
-ä¸­æ–°å¤©æ´¥ç”Ÿæ€åŸå¸‚åœºç›‘ç£ç®¡ç†å±€,https://www.eco-city.gov.cn/p1/scjdglj.html,CN,å¤©æ´¥å¸‚,ä¸­æ–°å¤©æ´¥ç”Ÿæ€åŸ,Tianjin,Zhongxintianjinshengtaicheng,^[a-zA-Z0-9]*$,2025/10/28
-æ²³åŒ—çœå¸‚åœºç›‘ç£ç®¡ç†å±€,https://scjg.hebei.gov.cn/,CN,æ²³åŒ—çœ,,Hebei Province,,^[a-zA-Z0-9]*$,2025/10/28
-çŸ³å®¶åº„å¸‚å¸‚åœºç›‘ç£ç®¡ç†å±€,https://scjg.sjz.gov.cn/,CN,æ²³åŒ—çœ,çŸ³å®¶åº„å¸‚,Hebei Province,Shijiazhuang City,^[a-zA-Z0-9]*$,2025/10/28
-çŸ³å®¶åº„å¸‚è—åŸåŒºå¸‚åœºç›‘ç£ç®¡ç†å±€,http://www.gc.gov.cn/columns/7ea6edb7-cd84-4e64-b603-febf1fd7bf3e/202408/13/8a66950d-985e-4e8c-897c-5eca26478e54.html,CN,æ²³åŒ—çœ,è—åŸåŒº,Hebei Province,Gaocheng District,^[a-zA-Z0-9]*$,2025/10/28
-è¾›é›†å¸‚å¸‚åœºç›‘ç£ç®¡ç†å±€,https://www.xinji.gov.cn/html/sy_jgzn/62912.html,CN,æ²³åŒ—çœ,è¾›é›†å¸‚,Hebei Province,Xinji City,^[a-zA-Z0-9]*$,2025/10/28
-äº•é™‰å¿å¸‚åœºç›‘ç£ç®¡ç†å±€,http://www.sjzjx.gov.cn/columns/4047c0c0-c242-4460-b45e-cf807e5d43fc/202002/28/ef0e82d1-c2cc-4aa3-bbcf-cd0bc20ec68c.html,CN,æ²³åŒ—çœ,äº•é™‰å¿,Hebei Province,Jingxing County,^[a-zA-Z0-9]*$,2025/10/28
-æ­£å®šå¿å¸‚åœºç›‘ç£ç®¡ç†å±€,http://www.zd.gov.cn/columns/a3643706-b93e-4c55-9b00-4c1d668f5fd2/202007/17/052c6574-2efe-465f-a84c-8341b178fe8c.html,CN,æ²³åŒ—çœ,æ­£å®šå¿,Hebei Province,Zhengding County,^[a-zA-Z0-9]*$,2025/10/28
-æ— æå¿å¸‚åœºç›‘ç£ç®¡ç†å±€,http://www.wuji.gov.cn/columns/6b822382-6f36-42a1-ae4a-520afc031c9c/202409/19/55d082ae-0ac4-4df4-8410-c431e1d438bc.html,CN,æ²³åŒ—çœ,æ— æå¿,Hebei Province,Wuji County,^[a-zA-Z0-9]*$,2025/10/28
-çŸ³å®¶åº„å¸‚å¸‚åœºç›‘ç£ç®¡ç†å±€ç»¼åˆä¿ç¨åŒºåˆ†å±€,https://www.sjzzhbsq.gov.cn/columns/044679dc-9963-4425-9658-e1b0b2835ac3/202306/19/6ae1a02b-5ed5-4f6a-9a08-7011070d0a99.html,CN,æ²³åŒ—çœ,çŸ³å®¶åº„å¸‚,Hebei Province,Shijiazhuang City,^[a-zA-Z0-9]*$,2025/10/28
-å”å±±å¸‚å¸‚åœºç›‘ç£ç®¡ç†å±€,https://scjdglj.tangshan.gov.cn/,CN,æ²³åŒ—çœ,å”å±±å¸‚,Hebei Province,Tangshan City,^[a-zA-Z0-9]*$,2025/10/28
-å”å±±å¸‚è·¯åŒ—åŒºå¸‚åœºç›‘ç£ç®¡ç†å±€,http://www.tslb.gov.cn/index.php?a=show&catid=360&id=16286,CN,æ²³åŒ—çœ,è·¯åŒ—åŒº,Hebei Province,Lubei District,^[a-zA-Z0-9]*$,2025/10/28
-å”å±±å¸‚å¤å†¶åŒºå¸‚åœºç›‘ç£ç®¡ç†å±€,http://www.guye.gov.cn/guye/guyejgzn/20230112/906514.html,CN,æ²³åŒ—çœ,å¤å†¶åŒº,Hebei Province,Guye District,^[a-zA-Z0-9]*$,2025/10/28
-å”å±±å¸‚ä¸°å—åŒºå¸‚åœºç›‘ç£ç®¡ç†å±€,https://www.fengnanqu.gov.cn/tsfengnan/tsfengnanzhiquanmulu/20250826/1211603883.html,CN,æ²³åŒ—çœ,ä¸°å—åŒº,Hebei Province,Fengnan District,^[a-zA-Z0-9]*$,2025/10/28
-å”å±±å¸‚ä¸°æ¶¦åŒºå¸‚åœºç›‘ç£ç®¡ç†å±€,http://www.fengrun.gov.cn/fengrun/fengrunjgzn/20240802/1501596266.html,CN,æ²³åŒ—çœ,ä¸°æ¶¦åŒº,Hebei Province,Fengrun District,^[a-zA-Z0-9]*$,2025/10/28
-å”å±±å¸‚è·¯å—åŒºå¸‚åœºç›‘ç£ç®¡ç†å±€,http://www.lunan.gov.cn/lunanqu/lunanjgzn/20250904/1211605035.html,CN,æ²³åŒ—çœ,è·¯å—åŒº,Hebei Province,Lunan District,^[a-zA-Z0-9]*$,2025/10/28
-å”å±±å¸‚æ›¹å¦ƒç”¸åŒºå¸‚åœºç›‘ç£ç®¡ç†å±€,https://www.caofeidian.gov.cn/caofeidian/cfd_jgzn/20250808/1062960.html,CN,æ²³åŒ—çœ,æ›¹å¦ƒç”¸åŒº,Hebei Province,Caofeidian District,^[a-zA-Z0-9]*$,2025/10/28
-éµåŒ–å¸‚å¸‚åœºç›‘ç£ç®¡ç†å±€,http://www.zunhua.gov.cn/zunhua/zunhuajgzn/20211109/883440.html,CN,æ²³åŒ—çœ,éµåŒ–å¸‚,Hebei Province,Zunhua City,^[a-zA-Z0-9]*$,2025/10/28
-è¿å®‰å¸‚å¸‚åœºç›‘ç£ç®¡ç†å±€,http://www.qianan.gov.cn/content/79675.html,CN,æ²³åŒ—çœ,è¿å®‰å¸‚,Hebei Province,Qian'an City,^[a-zA-Z0-9]*$,2025/10/28
-æ»¦å·å¸‚å¸‚åœºç›‘ç£ç®¡ç†å±€,http://www.luanxian.gov.cn/index.php?m=content&c=index&a=show&catid=922&id=95119,CN,æ²³åŒ—çœ,æ»¦å·å¸‚,Hebei Province,Luanzhou City,^[a-zA-Z0-9]*$,2025/10/28
-ä¹äº­å¿å¸‚åœºç›‘ç£ç®¡ç†å±€,https://www.laoting.gov.cn/laoting/ltscjdglj/20231124/1191575531.html,CN,æ²³åŒ—çœ,ä¹äº­å¿,Hebei Province,Laoting County,^[a-zA-Z0-9]*$,2025/10/28
-è¿è¥¿å¿å¸‚åœºç›‘ç£ç®¡ç†å±€,https://www.qianxi.gov.cn/qianxi/jgzn/20240728/1074888.html,CN,æ²³åŒ—çœ,è¿è¥¿å¿,Hebei Province,Qianxi County,^[a-zA-Z0-9]*$,2025/10/28
-ç‰ç”°å¿å¸‚åœºç›‘ç£ç®¡ç†å±€,https://www.yutian.gov.cn/yutian/tsyutianzfjg/20250811/1211602770.html,CN,æ²³åŒ—çœ,ç‰ç”°å¿,Hebei Province,Yutian County,^[a-zA-Z0-9]*$,2025/10/28
-ç§¦çš‡å²›å¸‚å¸‚åœºç›‘ç£ç®¡ç†å±€,https://scj.qhd.gov.cn,CN,æ²³åŒ—çœ,ç§¦çš‡å²›å¸‚,Hebei Province,Qinhuangdao City,^[a-zA-Z0-9]*$,2025/10/28
-ç§¦çš‡å²›å¸‚æµ·æ¸¯åŒºå¸‚åœºç›‘ç£ç®¡ç†å±€,https://www.hbzwfw.gov.cn/hbzw/threesxcx/itemList/xz_index.do?webId=53&deptid=,CN,æ²³åŒ—çœ,æµ·æ¸¯åŒº,Hebei Province,Haigang District,^[a-zA-Z0-9]*$,2025/10/28
-ç§¦çš‡å²›åŒ—æˆ´æ²³æ–°åŒºå¸‚åœºç›‘ç£ç®¡ç†å±€,https://www.beidaihe.gov.cn/single/89/42231.html,CN,æ²³åŒ—çœ,ç§¦çš‡å²›åŒ—æˆ´æ²³æ–°åŒº,Hebei Province,Qinhuangdaobeidaihexin District,^[a-zA-Z0-9]*$,2025/10/28
-æ˜Œé»å¿å¸‚åœºç›‘ç£ç®¡ç†å±€,https://www.clxzf.gov.cn/single/9/26148.html,CN,æ²³åŒ—çœ,æ˜Œé»å¿,Hebei Province,Changli County,^[a-zA-Z0-9]*$,2025/10/28
-é‚¯éƒ¸å¸‚å¸‚åœºç›‘ç£ç®¡ç†å±€,https://scjg.hd.gov.cn/,CN,æ²³åŒ—çœ,é‚¯éƒ¸å¸‚,Hebei Province,Handan City,^[a-zA-Z0-9]*$,2025/10/28
-é‚¯éƒ¸å¸‚å³°å³°çŸ¿åŒºå¸‚åœºç›‘ç£ç®¡ç†å±€,http://www.ff.gov.cn/ffkqxxgk/bmxx/qzfxt/qscjdj/202402/t20240205_2020646.html,CN,æ²³åŒ—çœ,å³°å³°çŸ¿åŒº,Hebei Province,Fengfengkuang District,^[a-zA-Z0-9]*$,2025/10/28
-æ­¦å®‰å¸‚å¸‚åœºç›‘ç£ç®¡ç†å±€,http://www.wuan.gov.cn/wasxxgk/zfxxgk/zf/sscjdglj/fdzdgknr_35174/jgzz_35649/202502/t20250207_2104837.html,CN,æ²³åŒ—çœ,æ­¦å®‰å¸‚,Hebei Province,Wu'an City,^[a-zA-Z0-9]*$,2025/10/28
-é­å¿å¸‚åœºç›‘ç£ç®¡ç†å±€,https://www.wei.gov.cn/xxgk/showone.php?cid=6&authorid=69,CN,æ²³åŒ—çœ,é­å¿,Hebei Province,Wei County,^[a-zA-Z0-9]*$,2025/10/28
-é‚¢å°å¸‚å¸‚åœºç›‘ç£ç®¡ç†å±€,https://scjg.xingtai.gov.cn/,CN,æ²³åŒ—çœ,é‚¢å°å¸‚,Hebei Province,Xingtai City,^[a-zA-Z0-9]*$,2025/10/28
-å®æ™‹å¿å¸‚åœºç›‘ç£ç®¡ç†å±€,https://www.ningjin.gov.cn/xxgk/gkzn.jsp?orgCode=001001046&classId=11043,CN,æ²³åŒ—çœ,å®æ™‹å¿,Hebei Province,Ningjin County,^[a-zA-Z0-9]*$,2025/10/28
-æ¸…æ²³å¿å¸‚åœºç›‘ç£ç®¡ç†å±€,http://info.qinghexian.gov.cn/content/13261.html,CN,æ²³åŒ—çœ,æ¸…æ²³å¿,Hebei Province,Qinghe County,^[a-zA-Z0-9]*$,2025/10/28
-ä¿å®šå¸‚å¸‚åœºç›‘ç£ç®¡ç†å±€,https://scjgj.baoding.gov.cn/,CN,æ²³åŒ—çœ,ä¿å®šå¸‚,Hebei Province,Baoding City,^[a-zA-Z0-9]*$,2025/10/28
-å®šå·å¸‚å¸‚åœºç›‘ç£ç®¡ç†å±€,http://www.dzs.gov.cn/col/1598580793310/2021/12/10/1639127881633.html,CN,æ²³åŒ—çœ,å®šå·å¸‚,Hebei Province,Dingzhou City,^[a-zA-Z0-9]*$,2025/10/28
-æ¶¿å·å¸‚å¸‚åœºç›‘ç£ç®¡ç†å±€,https://www.zhuozhou.gov.cn/zzgxportal/inforcontent_new.jsp?contentsid=1742049211826&title=%25E6%25B6%25BF%25E5%25B7%259E%25E5%25B8%2582%25E5%25B8%2582%25E5%259C%25BA%25E7%259B%2591%25E7%259D%25A3%25E7%25AE%25A1%25E7%2590%2586%25E5%25B1%2580%25E6%2594%25BF%25E5%25BA%259C%25E4%25BF%25A1%25E6%2581%25AF%25E5%2585%25AC%25E5%25BC%2580%25E6%258C%2587%25E5%258D%2597&createtime=2025-03-17,CN,æ²³åŒ—çœ,æ¶¿å·å¸‚,Hebei Province,Zhuozhou City,^[a-zA-Z0-9]*$,2025/10/28
-å¼ å®¶å£å¸‚å¸‚åœºç›‘ç£ç®¡ç†å±€,http://scjg.zjk.gov.cn,CN,æ²³åŒ—çœ,å¼ å®¶å£å¸‚,Hebei Province,Zhangjiakou City,^[a-zA-Z0-9]*$,2025/10/28
-æ€€æ¥å¿å¸‚åœºç›‘ç£ç®¡ç†å±€,http://www.huailai.gov.cn/single/73/51617.html,CN,æ²³åŒ—çœ,æ€€æ¥å¿,Hebei Province,Huailai County,^[a-zA-Z0-9]*$,2025/10/28
-æ‰¿å¾·å¸‚å¸‚åœºç›‘ç£ç®¡ç†å±€,https://www.chengde.gov.cn/art/2023/1/26/art_9938_682559.html,CN,æ²³åŒ—çœ,æ‰¿å¾·å¸‚,Hebei Province,Chengde City,^[a-zA-Z0-9]*$,2025/10/28
-å¹³æ³‰å¸‚å¸‚åœºç›‘ç£ç®¡ç†å±€,https://www.pingquan.gov.cn/art/2025/3/26/art_10975_1059918.html,CN,æ²³åŒ—çœ,å¹³æ³‰å¸‚,Hebei Province,Pingquan City,^[a-zA-Z0-9]*$,2025/10/28
-æ²§å·å¸‚å¸‚åœºç›‘ç£ç®¡ç†å±€,http://scjgj.cangzhou.gov.cn,CN,æ²³åŒ—çœ,æ²§å·å¸‚,Hebei Province,Cangzhou City,^[a-zA-Z0-9]*$,2025/10/28
-ä»»ä¸˜å¸‚å¸‚åœºç›‘ç£ç®¡ç†å±€,https://www.renqiu.gov.cn/renqiu/zwzfjg/202301/f09a6b7f33da47c78b6fc58f4fd49cd8.shtml,CN,æ²³åŒ—çœ,ä»»ä¸˜å¸‚,Hebei Province,Renqiu City,^[a-zA-Z0-9]*$,2025/10/28
-é»„éª…å¸‚å¸‚åœºç›‘ç£ç®¡ç†å±€,http://www.huanghua.gov.cn/huanghua/c108933/202506/b15a516cee0548a595e600cbe27ef20f.shtml,CN,æ²³åŒ—çœ,é»„éª…å¸‚,Hebei Province,Huanghua City,^[a-zA-Z0-9]*$,2025/10/28
-æ²§å·æ¸¤æµ·æ–°åŒºå¸‚åœºç›‘ç£ç®¡ç†å±€,http://www.huanghua.gov.cn/huanghua/c108936/202310/5b71eff404344e3cab76a37f56e3ad33.shtml,CN,æ²³åŒ—çœ,æ²§å·æ¸¤æµ·æ–°åŒº,Hebei Province,Cangzhoubohaixin District,^[a-zA-Z0-9]*$,2025/10/28
-å»ŠåŠå¸‚å¸‚åœºç›‘ç£ç®¡ç†å±€,https://zfxxgk.lf.gov.cn/GKZN?deptId=39558,CN,æ²³åŒ—çœ,å»ŠåŠå¸‚,Hebei Province,Langfang City,^[a-zA-Z0-9]*$,2025/10/28
-éœ¸å·å¸‚å¸‚åœºç›‘ç£ç®¡ç†å±€,https://www.bazhou.gov.cn/infopublicity/department/show/58,CN,æ²³åŒ—çœ,éœ¸å·å¸‚,Hebei Province,Bazhou City,^[a-zA-Z0-9]*$,2025/10/28
-ä¸‰æ²³å¸‚å¸‚åœºç›‘ç£ç®¡ç†å±€,http://xxgk.san-he.gov.cn/Contentx?articleid=17094456018347008,CN,æ²³åŒ—çœ,ä¸‰æ²³å¸‚,Hebei Province,Sanhe City,^[a-zA-Z0-9]*$,2025/10/28
-æ°¸æ¸…å¿å¸‚åœºç›‘ç£ç®¡ç†å±€,https://www.yongqing.gov.cn/zfxxgkml/fdzdgknr/gkxx/dqhyjs/2024-10-08/28971.html,CN,æ²³åŒ—çœ,æ°¸æ¸…å¿,Hebei Province,Yongqing County,^[a-zA-Z0-9]*$,2025/10/28
-é¦™æ²³å¿å¸‚åœºç›‘ç£ç®¡ç†å±€,http://xxgk.xianghe.gov.cn:8088/index.do?templet=content_new&id={0A2E17A6-0000-0000-2BA0-20BE00000017},CN,æ²³åŒ—çœ,é¦™æ²³å¿,Hebei Province,Xianghe County,^[a-zA-Z0-9]*$,2025/10/28
-è¡¡æ°´å¸‚å¸‚åœºç›‘ç£ç®¡ç†å±€,https://scjgj.hengshui.gov.cn/,CN,æ²³åŒ—çœ,è¡¡æ°´å¸‚,Hebei Province,Hengshui City,^[a-zA-Z0-9]*$,2025/10/28
-é‚¢å°å¸‚ä»»æ³½åŒºäººæ°‘æ”¿åºœ,https://www.renze.gov.cn,CN,æ²³åŒ—çœ,ä»»æ³½åŒº,Hebei Province,Renze District,^[a-zA-Z0-9]*$,2025/10/28
-è¡¡æ°´å¸‚å®‰å¹³å¿å¸‚åœºç›‘ç£ç®¡ç†å±€,http://xxgk.hengshui.gov.cn/apx/bm76/apxscjdglj/fdzdgknr7336/jgjj5942/2947257/index.html,CN,æ²³åŒ—çœ,å®‰å¹³å¿,Hebei Province,Anping County,^[a-zA-Z0-9]*$,2025/10/28
-å¾æ±‡åŒºå¸‚åœºç›‘ç£ç®¡ç†å±€,https://www.xuhui.gov.cn/gongshangfenju/,CN,ä¸Šæµ·å¸‚,å¾æ±‡åŒº,Shanghai,Xuhui District,^[a-zA-Z0-9]*$,2025/10/29
-å°¤æºªå¿å¸‚åœºç›‘ç£ç®¡ç†å±€,https://www.fjyx.gov.cn/zwgk/jgzn/xzfgzjg_22049/yxxscjdglj/,CN,ç¦å»ºçœ,å°¤æºªå¿,Fujian Province,Youxi County,^[a-zA-Z0-9]*$,2025/12/17
-å¹¿å·å¸‚è”æ¹¾åŒºå¸‚åœºç›‘ç£ç®¡ç†å±€,https://www.lw.gov.cn/zwgkkgzjg/zfxt/qscjdglj/jbxx/,CN,å¹¿ä¸œçœ,è”æ¹¾åŒº,Guangdong Province,Liwan District,^[a-zA-Z0-9]*$,2025/12/25
-æ¡ƒæºå¿å¸‚åœºç›‘ç£ç®¡ç†å±€,https://www.taoyuan.gov.cn/zwgk/public/6616339/1133321451.html,CN,æ¹–å—çœ,æ¡ƒå›­å¿,Hunan Province,Taoyuan County,^[a-zA-Z0-9]*$,2025/12/29
-æ¡ä¹¡å¸‚å¸‚åœºç›‘ç£ç®¡ç†å±€,http://www.tx.gov.cn/art/2020/10/22/art_1229401710_97863.html,CN,æµ™æ±Ÿçœ,æ¡ä¹¡å¸‚,Zhejiang Province,Tongxiang City,^[a-zA-Z0-9]*$,2025/12/30
+Registration Agency,URL,Country,State/Province,Locality,State/Province English,Locality English,Registration Number Format,Last Updated
+±±¾©ÊĞÊĞ³¡¼à¶½¹ÜÀí¾Ö,https://qyxy.scjgj.beijing.gov.cn/,CN,±±¾©ÊĞ,,Beijing,,^[a-zA-Z0-9]*$,2025/10/28
+±±¾©ÊĞ¶«³ÇÇøÊĞ³¡¼à¶½¹ÜÀí¾Ö,https://www.bjdch.gov.cn/zwgk/jgdh/qzfzcbmdh/qscjgj/jgzzsgj/201903/t20190322_3018497.html,CN,±±¾©ÊĞ,¶«³ÇÇø,Beijing,Dongcheng District,^[a-zA-Z0-9]*$,2025/10/28
+±±¾©ÊĞÎ÷³ÇÇøÊĞ³¡¼à¶½¹ÜÀí¾Ö,https://www.bjxch.gov.cn/xxgk/jgzn/qgzzfb/xcgsfj.html,CN,±±¾©ÊĞ,Î÷³ÇÇø,Beijing,Xicheng District,^[a-zA-Z0-9]*$,2025/10/28
+±±¾©ÊĞ³¯ÑôÇøÊĞ³¡¼à¶½¹ÜÀí¾Ö,http://www.bjchy.gov.cn/affair/govintro/depIndex_hbdw.html?depId=402883c26936af6d01694bc90058001e&sgs=/affair/govintro/402883c26936af6d01694bc90058001e,CN,±±¾©ÊĞ,³¯ÑôÇø,Beijing,Chaoyang District,^[a-zA-Z0-9]*$,2025/10/28
+±±¾©ÊĞ·áÌ¨ÇøÊĞ³¡¼à¶½¹ÜÀí¾Ö,https://www.bjft.gov.cn/ftq/c100003de/jgxxcontent.shtml,CN,±±¾©ÊĞ,·áÌ¨Çø,Beijing,Fengtai District,^[a-zA-Z0-9]*$,2025/10/28
+±±¾©ÊĞÊ¯¾°É½ÇøÊĞ³¡¼à¶½¹ÜÀí¾Ö,https://www.bjsjs.gov.cn/gongkai/qscjgj/jgzn_1122/jgzz_1123/,CN,±±¾©ÊĞ,Ê¯¾°É½Çø,Beijing,Shijingshan District,^[a-zA-Z0-9]*$,2025/10/28
+±±¾©ÊĞº£µíÇøÊĞ³¡¼à¶½¹ÜÀí¾Ö,https://zyk.bjhd.gov.cn/xxgkzl/zdgk/jgjj/qzfbm/qscjdj/,CN,±±¾©ÊĞ,º£µíÇø,Beijing,Haidian District,^[a-zA-Z0-9]*$,2025/10/28
+±±¾©ÊĞÃÅÍ·¹µÇøÊĞ³¡¼à¶½¹ÜÀí¾Ö,https://www.bjmtg.gov.cn/bjmtg/zwxx/qscjgj/jbxx/index.shtml,CN,±±¾©ÊĞ,ÃÅÍ·¹µÇø,Beijing,Mentougou District,^[a-zA-Z0-9]*$,2025/10/28
+±±¾©ÊĞ·¿É½ÇøÊĞ³¡¼à¶½¹ÜÀí¾Ö,https://www.bjfsh.gov.cn/zfxxgk/2020jgzn/zfbm/qscjdglj_24228/jgxx_24230/201912/t20191204_39986374.shtml,CN,±±¾©ÊĞ,·¿É½Çø,Beijing,Fangshan District,^[a-zA-Z0-9]*$,2025/10/28
+±±¾©ÊĞÍ¨ÖİÇøÊĞ³¡¼à¶½¹ÜÀí¾Ö,https://www.bjtzh.gov.cn/bjtz/xxfb/gsfj/jbxx.shtml,CN,±±¾©ÊĞ,Í¨ÖİÇø,Beijing,Tongzhou District,^[a-zA-Z0-9]*$,2025/10/28
+±±¾©ÊĞË³ÒåÇøÊĞ³¡¼à¶½¹ÜÀí¾Ö,https://www.bjshy.gov.cn/web/zwgk/jgxx/qzfwbj/qscjgj/index.html,CN,±±¾©ÊĞ,Ë³ÒåÇø,Beijing,Shunyi District,^[a-zA-Z0-9]*$,2025/10/28
+±±¾©ÊĞ²ıÆ½ÇøÊĞ³¡¼à¶½¹ÜÀí¾Ö,https://www.bjchp.gov.cn/cpqzf/315734/scjgj/4959012/index.html,CN,±±¾©ÊĞ,²ıÆ½Çø,Beijing,Changping District,^[a-zA-Z0-9]*$,2025/10/28
+±±¾©ÊĞ´óĞËÇøÊĞ³¡¼à¶½¹ÜÀí¾Ö,https://www.bjdx.gov.cn/bjsdxqrmzf/zwfw/jgzq/qzfjg/qscjgj/jbxx2/index.html,CN,±±¾©ÊĞ,´óĞËÇø,Beijing,Daxing District,^[a-zA-Z0-9]*$,2025/10/28
+±±¾©ÊĞ»³ÈáÇøÊĞ³¡¼à¶½¹ÜÀí¾Ö,https://www.bjhr.gov.cn/zwgk/zfxxgkjg/qzfbmdh/qscjgjdh/scjgzn/scjgzz/202005/t20200523_1907102.html,CN,±±¾©ÊĞ,»³ÈáÇø,Beijing,Huairou District,^[a-zA-Z0-9]*$,2025/10/28
+±±¾©ÊĞÆ½¹ÈÇøÊĞ³¡¼à¶½¹ÜÀí¾Ö,https://www.bjpg.gov.cn/pgqrmzf/bm/scjdglj/697373/697375/index.html,CN,±±¾©ÊĞ,Æ½¹ÈÇø,Beijing,Pinggu District,^[a-zA-Z0-9]*$,2025/10/28
+±±¾©ÊĞÃÜÔÆÇøÊĞ³¡¼à¶½¹ÜÀí¾Ö,https://www.bjmy.gov.cn/zwgk/jgzn/jgznqzfbm/scjgj/,CN,±±¾©ÊĞ,ÃÜÔÆÇø,Beijing,Miyun District,^[a-zA-Z0-9]*$,2025/10/28
+±±¾©ÊĞÑÓÇìÇøÊĞ³¡¼à¶½¹ÜÀí¾Ö,http://www.bjyq.gov.cn/yanqing/zbmy/2537155/2537156/index.shtml,CN,±±¾©ÊĞ,ÑÓÇìÇø,Beijing,Yanqing District,^[a-zA-Z0-9]*$,2025/10/28
+±±¾©¾­¼Ã¼¼Êõ¿ª·¢ÇøÊĞ³¡¼à¶½¹ÜÀí¾Ö,https://kfqgw.beijing.gov.cn/zwgk/jgsz/202002/t20200221_1664154.html,CN,±±¾©ÊĞ,±±¾©¾­¼Ã¼¼Êõ¿ª·¢Çø,Beijing,Beijing Economic and Technological Development Zone,^[a-zA-Z0-9]*$,2025/10/28
+±±¾©ÊĞ¹¤ÉÌĞĞÕş¹ÜÀí¾Ö²ıÆ½·Ö¾Ö,https://scjgj.beijing.gov.cn/zwxx/,CN,±±¾©ÊĞ,²ıÆ½Çø,Beijing,Changping District,^[a-zA-Z0-9]*$,2025/10/28
+Ìì½òÊĞÊĞ³¡¼à¶½¹ÜÀíÎ¯Ô±»á,https://scjg.tj.gov.cn/,CN,Ìì½òÊĞ,,Tianjin,,^[a-zA-Z0-9]*$,2025/10/28
+Ìì½òÊĞ±õº£ĞÂÇøÊĞ³¡¼à¶½¹ÜÀí¾Ö,https://scjg.tj.gov.cn/tjsbhxqscjdglj/,CN,Ìì½òÊĞ,±õº£ĞÂÇø,Tianjin,Binhai New District,^[a-zA-Z0-9]*$,2025/10/28
+Ìì½òÊĞºÍÆ½ÇøÊĞ³¡¼à¶½¹ÜÀí¾Ö,https://scjg.tj.gov.cn/tjshpqscjdglj/,CN,Ìì½òÊĞ,ºÍÆ½Çø,Tianjin,Heping District,^[a-zA-Z0-9]*$,2025/10/28
+Ìì½òÊĞºÓ¶«ÇøÊĞ³¡¼à¶½¹ÜÀí¾Ö,https://scjg.tj.gov.cn/tjshdqscjdglj/,CN,Ìì½òÊĞ,ºÓ¶«Çø,Tianjin,Hedong District,^[a-zA-Z0-9]*$,2025/10/28
+Ìì½òÊĞºÓÎ÷ÇøÊĞ³¡¼à¶½¹ÜÀí¾Ö,https://scjg.tj.gov.cn/tjshxqscjdglj/,CN,Ìì½òÊĞ,ºÓÎ÷Çø,Tianjin,Hexi District,^[a-zA-Z0-9]*$,2025/10/28
+Ìì½òÊĞºÓ±±ÇøÊĞ³¡¼à¶½¹ÜÀí¾Ö,https://scjg.tj.gov.cn/tjshbqscjdglj/,CN,Ìì½òÊĞ,ºÓ±±Çø,Tianjin,Hebei District,^[a-zA-Z0-9]*$,2025/10/28
+Ìì½òÊĞÄÏ¿ªÇøÊĞ³¡¼à¶½¹ÜÀí¾Ö,https://scjg.tj.gov.cn/tjsnkqscjdglj/,CN,Ìì½òÊĞ,ÄÏ¿ªÇø,Tianjin,Nankai District,^[a-zA-Z0-9]*$,2025/10/28
+Ìì½òÊĞºìÇÅÇøÊĞ³¡¼à¶½¹ÜÀí¾Ö,https://scjg.tj.gov.cn/tjshqqscjdglj/,CN,Ìì½òÊĞ,ºìÇÅÇø,Tianjin,Hongqiao District,^[a-zA-Z0-9]*$,2025/10/28
+Ìì½òÊĞÎ÷ÇàÇøÊĞ³¡¼à¶½¹ÜÀí¾Ö,https://scjg.tj.gov.cn/tjsxqqscjdglj/,CN,Ìì½òÊĞ,Î÷ÇàÇø,Tianjin,Xiqing District,^[a-zA-Z0-9]*$,2025/10/28
+Ìì½òÊĞ½òÄÏÇøÊĞ³¡¼à¶½¹ÜÀí¾Ö,https://scjg.tj.gov.cn/tjsjnqscjdglj/,CN,Ìì½òÊĞ,½òÄÏÇø,Tianjin,Jinnan District,^[a-zA-Z0-9]*$,2025/10/28
+Ìì½òÊĞÎäÇåÇøÊĞ³¡¼à¶½¹ÜÀí¾Ö,https://scjg.tj.gov.cn/tjsscjdglwyh_52651/hdpt/lxwm/,CN,Ìì½òÊĞ,ÎäÇåÇø,Tianjin,Wuqing District,^[a-zA-Z0-9]*$,2026/1/9
+Ìì½òÊĞ±¦ÛæÇøÊĞ³¡¼à¶½¹ÜÀí¾Ö,https://scjg.tj.gov.cn/tjsbcqscjdglj_255/,CN,Ìì½òÊĞ,±¦ÛæÇø,Tianjin,Baodi District,^[a-zA-Z0-9]*$,2025/10/28
+Ìì½òÊĞÄşºÓÇøÊĞ³¡¼à¶½¹ÜÀí¾Ö,https://scjg.tj.gov.cn/tjsnhqscjdglj/,CN,Ìì½òÊĞ,ÄşºÓÇø,Tianjin,Ninghe District,^[a-zA-Z0-9]*$,2025/10/28
+Ìì½òÊĞ¾²º£ÇøÊĞ³¡¼à¶½¹ÜÀí¾Ö,https://scjg.tj.gov.cn/tjsjhqscjdglj/,CN,Ìì½òÊĞ,¾²º£Çø,Tianjin,Jinghai District,^[a-zA-Z0-9]*$,2025/10/28
+Ìì½òÊĞ¼»ÖİÇøÊĞ³¡¼à¶½¹ÜÀí¾Ö,https://scjg.tj.gov.cn/tjsjzqscjdglj/,CN,Ìì½òÊĞ,¼»ÖİÇø,Tianjin,Jizhou District,^[a-zA-Z0-9]*$,2025/10/28
+Ìì½ò¾­¼Ã¼¼Êõ¿ª·¢ÇøÊĞ³¡¼à¶½¹ÜÀí¾Ö,https://zwfw.tj.gov.cn/#/DepartmentalMatters/120316/TE1203161211600021/3,CN,Ìì½òÊĞ,Ìì½ò¾­¼Ã¼¼Êõ¿ª·¢Çø,Tianjin,Tianjinjingjijishukaifa District,^[a-zA-Z0-9]*$,2025/10/28
+Ìì½ò±õº£¸ßĞÂ¼¼Êõ²úÒµ¿ª·¢ÇøÊĞ³¡¼à¶½¹ÜÀí¾Ö,https://tht.gov.cn/,CN,Ìì½òÊĞ,±õº£ĞÂÇø¸ßĞÂ¼¼Êõ²úÒµ¿ª·¢Çø,Tianjin,BinhaigaoxinjishuchanyekaifaNew District District,^[a-zA-Z0-9]*$,2025/10/28
+Ìì½òÊĞºÍ¶«ÀöÇøÊĞ³¡¼à¶½¹ÜÀí¾Ö,https://scjg.tj.gov.cn/tjsdlqscjdglj/,CN,Ìì½òÊĞ,¶«ÀöÇø,Tianjin,Dongli District,^[a-zA-Z0-9]*$,2025/10/28
+Ìì½òÊĞ±±³½Çø³¡¼à¶½¹ÜÀí¾Ö,https://scjg.tj.gov.cn/tjsbcqscjdglj/,CN,Ìì½òÊĞ,±±³½Çø,Tianjin,Beichen District,^[a-zA-Z0-9]*$,2025/10/28
+Ìì½òÊĞ×ÔÓÉÃ³Ò×ÊÔÑéÇøÊĞ³¡¼à¶½¹ÜÀí¾Ö,https://scjg.tj.gov.cn/tjsbhxqscjdglj/zwgk_57979/zfgz_57982/gzwj_57983/202007/t20200720_3003484.html,CN,Ìì½òÊĞ,ÖĞ¹ú£¨Ìì½ò£©×ÔÓÉÃ³Ò×ÊÔÑéÇø,Tianjin,Zhongguo£¨tianjin£©ziyoumaoyishiyan District,^[a-zA-Z0-9]*$,2025/10/28
+Ìì½òÊĞ±õº£ĞÂÇøĞĞÕşÉóÅú¾Ö,https://zwb.tjbh.gov.cn/channels/9938.html,CN,Ìì½òÊĞ,±õº£ĞÂÇø,Tianjin,Binhai New District,^[a-zA-Z0-9]*$,2025/10/28
+ÖĞĞÂÌì½òÉúÌ¬³ÇÊĞ³¡¼à¶½¹ÜÀí¾Ö,https://www.eco-city.gov.cn/p1/scjdglj.html,CN,Ìì½òÊĞ,ÖĞĞÂÌì½òÉúÌ¬³Ç,Tianjin,Zhongxintianjinshengtaicheng,^[a-zA-Z0-9]*$,2025/10/28
+ºÓ±±Ê¡ÊĞ³¡¼à¶½¹ÜÀí¾Ö,https://scjg.hebei.gov.cn/,CN,ºÓ±±Ê¡,,Hebei Province,,^[a-zA-Z0-9]*$,2025/10/28
+Ê¯¼Ò×¯ÊĞÊĞ³¡¼à¶½¹ÜÀí¾Ö,https://scjg.sjz.gov.cn/,CN,ºÓ±±Ê¡,Ê¯¼Ò×¯ÊĞ,Hebei Province,Shijiazhuang City,^[a-zA-Z0-9]*$,2025/10/28
+Ê¯¼Ò×¯ÊĞŞ»³ÇÇøÊĞ³¡¼à¶½¹ÜÀí¾Ö,http://www.gc.gov.cn/columns/7ea6edb7-cd84-4e64-b603-febf1fd7bf3e/202408/13/8a66950d-985e-4e8c-897c-5eca26478e54.html,CN,ºÓ±±Ê¡,Ş»³ÇÇø,Hebei Province,Gaocheng District,^[a-zA-Z0-9]*$,2025/10/28
+ĞÁ¼¯ÊĞÊĞ³¡¼à¶½¹ÜÀí¾Ö,https://www.xinji.gov.cn/html/sy_jgzn/62912.html,CN,ºÓ±±Ê¡,ĞÁ¼¯ÊĞ,Hebei Province,Xinji City,^[a-zA-Z0-9]*$,2025/10/28
+¾®ÚêÏØÊĞ³¡¼à¶½¹ÜÀí¾Ö,http://www.sjzjx.gov.cn/columns/4047c0c0-c242-4460-b45e-cf807e5d43fc/202002/28/ef0e82d1-c2cc-4aa3-bbcf-cd0bc20ec68c.html,CN,ºÓ±±Ê¡,¾®ÚêÏØ,Hebei Province,Jingxing County,^[a-zA-Z0-9]*$,2025/10/28
+Õı¶¨ÏØÊĞ³¡¼à¶½¹ÜÀí¾Ö,http://www.zd.gov.cn/columns/a3643706-b93e-4c55-9b00-4c1d668f5fd2/202007/17/052c6574-2efe-465f-a84c-8341b178fe8c.html,CN,ºÓ±±Ê¡,Õı¶¨ÏØ,Hebei Province,Zhengding County,^[a-zA-Z0-9]*$,2025/10/28
+ÎŞ¼«ÏØÊĞ³¡¼à¶½¹ÜÀí¾Ö,http://www.wuji.gov.cn/columns/6b822382-6f36-42a1-ae4a-520afc031c9c/202409/19/55d082ae-0ac4-4df4-8410-c431e1d438bc.html,CN,ºÓ±±Ê¡,ÎŞ¼«ÏØ,Hebei Province,Wuji County,^[a-zA-Z0-9]*$,2025/10/28
+Ê¯¼Ò×¯ÊĞÊĞ³¡¼à¶½¹ÜÀí¾Ö×ÛºÏ±£Ë°Çø·Ö¾Ö,https://www.sjzzhbsq.gov.cn/columns/044679dc-9963-4425-9658-e1b0b2835ac3/202306/19/6ae1a02b-5ed5-4f6a-9a08-7011070d0a99.html,CN,ºÓ±±Ê¡,Ê¯¼Ò×¯ÊĞ,Hebei Province,Shijiazhuang City,^[a-zA-Z0-9]*$,2025/10/28
+ÌÆÉ½ÊĞÊĞ³¡¼à¶½¹ÜÀí¾Ö,https://scjdglj.tangshan.gov.cn/,CN,ºÓ±±Ê¡,ÌÆÉ½ÊĞ,Hebei Province,Tangshan City,^[a-zA-Z0-9]*$,2025/10/28
+ÌÆÉ½ÊĞÂ·±±ÇøÊĞ³¡¼à¶½¹ÜÀí¾Ö,http://www.tslb.gov.cn/index.php?a=show&catid=360&id=16286,CN,ºÓ±±Ê¡,Â·±±Çø,Hebei Province,Lubei District,^[a-zA-Z0-9]*$,2025/10/28
+ÌÆÉ½ÊĞ¹ÅÒ±ÇøÊĞ³¡¼à¶½¹ÜÀí¾Ö,http://www.guye.gov.cn/guye/guyejgzn/20230112/906514.html,CN,ºÓ±±Ê¡,¹ÅÒ±Çø,Hebei Province,Guye District,^[a-zA-Z0-9]*$,2025/10/28
+ÌÆÉ½ÊĞ·áÄÏÇøÊĞ³¡¼à¶½¹ÜÀí¾Ö,https://www.fengnanqu.gov.cn/tsfengnan/tsfengnanzhiquanmulu/20250826/1211603883.html,CN,ºÓ±±Ê¡,·áÄÏÇø,Hebei Province,Fengnan District,^[a-zA-Z0-9]*$,2025/10/28
+ÌÆÉ½ÊĞ·áÈóÇøÊĞ³¡¼à¶½¹ÜÀí¾Ö,http://www.fengrun.gov.cn/fengrun/fengrunjgzn/20240802/1501596266.html,CN,ºÓ±±Ê¡,·áÈóÇø,Hebei Province,Fengrun District,^[a-zA-Z0-9]*$,2025/10/28
+ÌÆÉ½ÊĞÂ·ÄÏÇøÊĞ³¡¼à¶½¹ÜÀí¾Ö,http://www.lunan.gov.cn/lunanqu/lunanjgzn/20250904/1211605035.html,CN,ºÓ±±Ê¡,Â·ÄÏÇø,Hebei Province,Lunan District,^[a-zA-Z0-9]*$,2025/10/28
+ÌÆÉ½ÊĞ²ÜåúµéÇøÊĞ³¡¼à¶½¹ÜÀí¾Ö,https://www.caofeidian.gov.cn/caofeidian/cfd_jgzn/20250808/1062960.html,CN,ºÓ±±Ê¡,²ÜåúµéÇø,Hebei Province,Caofeidian District,^[a-zA-Z0-9]*$,2025/10/28
+×ñ»¯ÊĞÊĞ³¡¼à¶½¹ÜÀí¾Ö,http://www.zunhua.gov.cn/zunhua/zunhuajgzn/20211109/883440.html,CN,ºÓ±±Ê¡,×ñ»¯ÊĞ,Hebei Province,Zunhua City,^[a-zA-Z0-9]*$,2025/10/28
+Ç¨°²ÊĞÊĞ³¡¼à¶½¹ÜÀí¾Ö,http://www.qianan.gov.cn/content/79675.html,CN,ºÓ±±Ê¡,Ç¨°²ÊĞ,Hebei Province,Qian'an City,^[a-zA-Z0-9]*$,2025/10/28
+ÂĞÖİÊĞÊĞ³¡¼à¶½¹ÜÀí¾Ö,http://www.luanxian.gov.cn/index.php?m=content&c=index&a=show&catid=922&id=95119,CN,ºÓ±±Ê¡,ÂĞÖİÊĞ,Hebei Province,Luanzhou City,^[a-zA-Z0-9]*$,2025/10/28
+ÀÖÍ¤ÏØÊĞ³¡¼à¶½¹ÜÀí¾Ö,https://www.laoting.gov.cn/laoting/ltscjdglj/20231124/1191575531.html,CN,ºÓ±±Ê¡,ÀÖÍ¤ÏØ,Hebei Province,Laoting County,^[a-zA-Z0-9]*$,2025/10/28
+Ç¨Î÷ÏØÊĞ³¡¼à¶½¹ÜÀí¾Ö,https://www.qianxi.gov.cn/qianxi/jgzn/20240728/1074888.html,CN,ºÓ±±Ê¡,Ç¨Î÷ÏØ,Hebei Province,Qianxi County,^[a-zA-Z0-9]*$,2025/10/28
+ÓñÌïÏØÊĞ³¡¼à¶½¹ÜÀí¾Ö,https://www.yutian.gov.cn/yutian/tsyutianzfjg/20250811/1211602770.html,CN,ºÓ±±Ê¡,ÓñÌïÏØ,Hebei Province,Yutian County,^[a-zA-Z0-9]*$,2025/10/28
+ÇØ»ÊµºÊĞÊĞ³¡¼à¶½¹ÜÀí¾Ö,https://scj.qhd.gov.cn,CN,ºÓ±±Ê¡,ÇØ»ÊµºÊĞ,Hebei Province,Qinhuangdao City,^[a-zA-Z0-9]*$,2025/10/28
+ÇØ»ÊµºÊĞº£¸ÛÇøÊĞ³¡¼à¶½¹ÜÀí¾Ö,https://www.hbzwfw.gov.cn/hbzw/threesxcx/itemList/xz_index.do?webId=53&deptid=,CN,ºÓ±±Ê¡,º£¸ÛÇø,Hebei Province,Haigang District,^[a-zA-Z0-9]*$,2025/10/28
+ÇØ»Êµº±±´÷ºÓĞÂÇøÊĞ³¡¼à¶½¹ÜÀí¾Ö,https://www.beidaihe.gov.cn/single/89/42231.html,CN,ºÓ±±Ê¡,ÇØ»Êµº±±´÷ºÓĞÂÇø,Hebei Province,Qinhuangdaobeidaihexin District,^[a-zA-Z0-9]*$,2025/10/28
+²ıÀèÏØÊĞ³¡¼à¶½¹ÜÀí¾Ö,https://www.clxzf.gov.cn/single/9/26148.html,CN,ºÓ±±Ê¡,²ıÀèÏØ,Hebei Province,Changli County,^[a-zA-Z0-9]*$,2025/10/28
+ºªµ¦ÊĞÊĞ³¡¼à¶½¹ÜÀí¾Ö,https://scjg.hd.gov.cn/,CN,ºÓ±±Ê¡,ºªµ¦ÊĞ,Hebei Province,Handan City,^[a-zA-Z0-9]*$,2025/10/28
+ºªµ¦ÊĞ·å·å¿óÇøÊĞ³¡¼à¶½¹ÜÀí¾Ö,http://www.ff.gov.cn/ffkqxxgk/bmxx/qzfxt/qscjdj/202402/t20240205_2020646.html,CN,ºÓ±±Ê¡,·å·å¿óÇø,Hebei Province,Fengfengkuang District,^[a-zA-Z0-9]*$,2025/10/28
+Îä°²ÊĞÊĞ³¡¼à¶½¹ÜÀí¾Ö,http://www.wuan.gov.cn/wasxxgk/zfxxgk/zf/sscjdglj/fdzdgknr_35174/jgzz_35649/202502/t20250207_2104837.html,CN,ºÓ±±Ê¡,Îä°²ÊĞ,Hebei Province,Wu'an City,^[a-zA-Z0-9]*$,2025/10/28
+ÎºÏØÊĞ³¡¼à¶½¹ÜÀí¾Ö,https://www.wei.gov.cn/xxgk/showone.php?cid=6&authorid=69,CN,ºÓ±±Ê¡,ÎºÏØ,Hebei Province,Wei County,^[a-zA-Z0-9]*$,2025/10/28
+ĞÏÌ¨ÊĞÊĞ³¡¼à¶½¹ÜÀí¾Ö,https://scjg.xingtai.gov.cn/,CN,ºÓ±±Ê¡,ĞÏÌ¨ÊĞ,Hebei Province,Xingtai City,^[a-zA-Z0-9]*$,2025/10/28
+Äş½úÏØÊĞ³¡¼à¶½¹ÜÀí¾Ö,https://www.ningjin.gov.cn/xxgk/gkzn.jsp?orgCode=001001046&classId=11043,CN,ºÓ±±Ê¡,Äş½úÏØ,Hebei Province,Ningjin County,^[a-zA-Z0-9]*$,2025/10/28
+ÇåºÓÏØÊĞ³¡¼à¶½¹ÜÀí¾Ö,http://info.qinghexian.gov.cn/content/13261.html,CN,ºÓ±±Ê¡,ÇåºÓÏØ,Hebei Province,Qinghe County,^[a-zA-Z0-9]*$,2025/10/28
+±£¶¨ÊĞÊĞ³¡¼à¶½¹ÜÀí¾Ö,https://scjgj.baoding.gov.cn/,CN,ºÓ±±Ê¡,±£¶¨ÊĞ,Hebei Province,Baoding City,^[a-zA-Z0-9]*$,2025/10/28
+¶¨ÖİÊĞÊĞ³¡¼à¶½¹ÜÀí¾Ö,http://www.dzs.gov.cn/col/1598580793310/2021/12/10/1639127881633.html,CN,ºÓ±±Ê¡,¶¨ÖİÊĞ,Hebei Province,Dingzhou City,^[a-zA-Z0-9]*$,2025/10/28
+äÃÖİÊĞÊĞ³¡¼à¶½¹ÜÀí¾Ö,https://www.zhuozhou.gov.cn/zzgxportal/inforcontent_new.jsp?contentsid=1742049211826&title=%25E6%25B6%25BF%25E5%25B7%259E%25E5%25B8%2582%25E5%25B8%2582%25E5%259C%25BA%25E7%259B%2591%25E7%259D%25A3%25E7%25AE%25A1%25E7%2590%2586%25E5%25B1%2580%25E6%2594%25BF%25E5%25BA%259C%25E4%25BF%25A1%25E6%2581%25AF%25E5%2585%25AC%25E5%25BC%2580%25E6%258C%2587%25E5%258D%2597&createtime=2025-03-17,CN,ºÓ±±Ê¡,äÃÖİÊĞ,Hebei Province,Zhuozhou City,^[a-zA-Z0-9]*$,2025/10/28
+ÕÅ¼Ò¿ÚÊĞÊĞ³¡¼à¶½¹ÜÀí¾Ö,http://scjg.zjk.gov.cn,CN,ºÓ±±Ê¡,ÕÅ¼Ò¿ÚÊĞ,Hebei Province,Zhangjiakou City,^[a-zA-Z0-9]*$,2025/10/28
+»³À´ÏØÊĞ³¡¼à¶½¹ÜÀí¾Ö,http://www.huailai.gov.cn/single/73/51617.html,CN,ºÓ±±Ê¡,»³À´ÏØ,Hebei Province,Huailai County,^[a-zA-Z0-9]*$,2025/10/28
+³ĞµÂÊĞÊĞ³¡¼à¶½¹ÜÀí¾Ö,https://www.chengde.gov.cn/art/2023/1/26/art_9938_682559.html,CN,ºÓ±±Ê¡,³ĞµÂÊĞ,Hebei Province,Chengde City,^[a-zA-Z0-9]*$,2025/10/28
+Æ½ÈªÊĞÊĞ³¡¼à¶½¹ÜÀí¾Ö,https://www.pingquan.gov.cn/art/2025/3/26/art_10975_1059918.html,CN,ºÓ±±Ê¡,Æ½ÈªÊĞ,Hebei Province,Pingquan City,^[a-zA-Z0-9]*$,2025/10/28
+²×ÖİÊĞÊĞ³¡¼à¶½¹ÜÀí¾Ö,http://scjgj.cangzhou.gov.cn,CN,ºÓ±±Ê¡,²×ÖİÊĞ,Hebei Province,Cangzhou City,^[a-zA-Z0-9]*$,2025/10/28
+ÈÎÇğÊĞÊĞ³¡¼à¶½¹ÜÀí¾Ö,https://www.renqiu.gov.cn/renqiu/zwzfjg/202301/f09a6b7f33da47c78b6fc58f4fd49cd8.shtml,CN,ºÓ±±Ê¡,ÈÎÇğÊĞ,Hebei Province,Renqiu City,^[a-zA-Z0-9]*$,2025/10/28
+»ÆæèÊĞÊĞ³¡¼à¶½¹ÜÀí¾Ö,http://www.huanghua.gov.cn/huanghua/c108933/202506/b15a516cee0548a595e600cbe27ef20f.shtml,CN,ºÓ±±Ê¡,»ÆæèÊĞ,Hebei Province,Huanghua City,^[a-zA-Z0-9]*$,2025/10/28
+²×Öİ²³º£ĞÂÇøÊĞ³¡¼à¶½¹ÜÀí¾Ö,http://www.huanghua.gov.cn/huanghua/c108936/202310/5b71eff404344e3cab76a37f56e3ad33.shtml,CN,ºÓ±±Ê¡,²×Öİ²³º£ĞÂÇø,Hebei Province,Cangzhoubohaixin District,^[a-zA-Z0-9]*$,2025/10/28
+ÀÈ·»ÊĞÊĞ³¡¼à¶½¹ÜÀí¾Ö,https://zfxxgk.lf.gov.cn/GKZN?deptId=39558,CN,ºÓ±±Ê¡,ÀÈ·»ÊĞ,Hebei Province,Langfang City,^[a-zA-Z0-9]*$,2025/10/28
+°ÔÖİÊĞÊĞ³¡¼à¶½¹ÜÀí¾Ö,https://www.bazhou.gov.cn/infopublicity/department/show/58,CN,ºÓ±±Ê¡,°ÔÖİÊĞ,Hebei Province,Bazhou City,^[a-zA-Z0-9]*$,2025/10/28
+ÈıºÓÊĞÊĞ³¡¼à¶½¹ÜÀí¾Ö,http://xxgk.san-he.gov.cn/Contentx?articleid=17094456018347008,CN,ºÓ±±Ê¡,ÈıºÓÊĞ,Hebei Province,Sanhe City,^[a-zA-Z0-9]*$,2025/10/28
+ÓÀÇåÏØÊĞ³¡¼à¶½¹ÜÀí¾Ö,https://www.yongqing.gov.cn/zfxxgkml/fdzdgknr/gkxx/dqhyjs/2024-10-08/28971.html,CN,ºÓ±±Ê¡,ÓÀÇåÏØ,Hebei Province,Yongqing County,^[a-zA-Z0-9]*$,2025/10/28
+ÏãºÓÏØÊĞ³¡¼à¶½¹ÜÀí¾Ö,http://xxgk.xianghe.gov.cn:8088/index.do?templet=content_new&id={0A2E17A6-0000-0000-2BA0-20BE00000017},CN,ºÓ±±Ê¡,ÏãºÓÏØ,Hebei Province,Xianghe County,^[a-zA-Z0-9]*$,2025/10/28
+ºâË®ÊĞÊĞ³¡¼à¶½¹ÜÀí¾Ö,https://scjgj.hengshui.gov.cn/,CN,ºÓ±±Ê¡,ºâË®ÊĞ,Hebei Province,Hengshui City,^[a-zA-Z0-9]*$,2025/10/28
+ĞÏÌ¨ÊĞÈÎÔóÇøÈËÃñÕş¸®,https://www.renze.gov.cn,CN,ºÓ±±Ê¡,ÈÎÔóÇø,Hebei Province,Renze District,^[a-zA-Z0-9]*$,2025/10/28
+ºâË®ÊĞ°²Æ½ÏØÊĞ³¡¼à¶½¹ÜÀí¾Ö,http://xxgk.hengshui.gov.cn/apx/bm76/apxscjdglj/fdzdgknr7336/jgjj5942/2947257/index.html,CN,ºÓ±±Ê¡,°²Æ½ÏØ,Hebei Province,Anping County,^[a-zA-Z0-9]*$,2025/10/28
+Ğì»ãÇøÊĞ³¡¼à¶½¹ÜÀí¾Ö,https://www.xuhui.gov.cn/gongshangfenju/,CN,ÉÏº£ÊĞ,Ğì»ãÇø,Shanghai,Xuhui District,^[a-zA-Z0-9]*$,2025/10/29
+ÓÈÏªÏØÊĞ³¡¼à¶½¹ÜÀí¾Ö,https://www.fjyx.gov.cn/zwgk/jgzn/xzfgzjg_22049/yxxscjdglj/,CN,¸£½¨Ê¡,ÓÈÏªÏØ,Fujian Province,Youxi County,^[a-zA-Z0-9]*$,2025/12/17
+¹ãÖİÊĞÀóÍåÇøÊĞ³¡¼à¶½¹ÜÀí¾Ö,https://www.lw.gov.cn/zwgkkgzjg/zfxt/qscjdglj/jbxx/,CN,¹ã¶«Ê¡,ÀóÍåÇø,Guangdong Province,Liwan District,^[a-zA-Z0-9]*$,2025/12/25
+ÌÒÔ´ÏØÊĞ³¡¼à¶½¹ÜÀí¾Ö,https://www.taoyuan.gov.cn/zwgk/public/6616339/1133321451.html,CN,ºşÄÏÊ¡,ÌÒÔ°ÏØ,Hunan Province,Taoyuan County,^[a-zA-Z0-9]*$,2025/12/29
+Í©ÏçÊĞÊĞ³¡¼à¶½¹ÜÀí¾Ö,http://www.tx.gov.cn/art/2020/10/22/art_1229401710_97863.html,CN,Õã½­Ê¡,Í©ÏçÊĞ,Zhejiang Province,Tongxiang City,^[a-zA-Z0-9]*$,2025/12/30
+¸ÊËàÊ¡ÊÂÒµµ¥Î»µÇ¼Ç¹ÜÀí¾Ö,https://www.gsjgbz.gov.cn/gss_zwgk/201705/t20170510_124578.html,CN,¸ÊËàÊ¡,,Gansu Province,,^[a-zA-Z0-9]*$,2026/1/13
