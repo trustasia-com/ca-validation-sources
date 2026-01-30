@@ -97,3 +97,5 @@ Registration Agency,URL,Country,State/Province,Locality,State/Province English,L
 桃源县市场监督管理局,https://www.taoyuan.gov.cn/zwgk/public/6616339/1133321451.html,CN,湖南省,桃园县,Hunan Province,Taoyuan County,^[a-zA-Z0-9]*$,2025/12/29
 桐乡市市场监督管理局,http://www.tx.gov.cn/art/2020/10/22/art_1229401710_97863.html,CN,浙江省,桐乡市,Zhejiang Province,Tongxiang City,^[a-zA-Z0-9]*$,2025/12/30
 甘肃省事业单位登记管理局,https://www.gsjgbz.gov.cn/gss_zwgk/201705/t20170510_124578.html,CN,甘肃省,,Gansu Province,,^[a-zA-Z0-9]*$,2026/1/13
+南昌市红谷滩区市场监督管理局,http://hgt.nc.gov.cn/hgtqrmzf/fdjgjj/202112/f9c7124f78384055baf0e13934a44603.shtml,CN,江西省,红谷滩区,Jiangxi Province,Honggutan District,^[a-zA-Z0-9]*$,2026/1/30
+长沙市事业单位登记管理局,http://csbb.changsha.gov.cn/gywm/zzjg/nsjg/202011/t20201118_9585493.html,CN,湖南省,长沙市,Hunan Province,Changsha City,^[a-zA-Z0-9]*$,2026/1/30
