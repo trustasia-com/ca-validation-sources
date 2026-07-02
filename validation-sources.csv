@@ -101,5 +101,6 @@ Registration Agency,URL,Country,State/Province,Locality,State/Province English,L
 长沙市事业单位登记管理局,http://csbb.changsha.gov.cn/gywm/zzjg/nsjg/202011/t20201118_9585493.html,CN,湖南省,长沙市,Hunan Province,Changsha City,^[a-zA-Z0-9]*$,1/30/26
 河北省事业单位登记管理局,https://hebjgbz.gov.cn/hbjgbz/yylj/sydwdjpt/,CN,河北省,,Hebei Province,,^[a-zA-Z0-9]*$,5/8/26
 漳州市市场监督管理局,http://scjgj.zhangzhou.gov.cn/cms/html/zzsscjdglj/index.html,CN,福建省,漳州市,Fujian Province,Zhangzhou City,^[a-zA-Z0-9]*$,5/9/26
-陕西省事业单位登记管理局,https://www.sxbb.gov.cn/site-sxdjgl/,CN,陕西省	,,Shaanxi Province,,^[a-zA-Z0-9]*$,5/15/26
+陕西省事业单位登记管理局,https://www.sxbb.gov.cn/site-sxdjgl/,CN,陕西省,,Shaanxi Province,,^[a-zA-Z0-9]*$,5/15/26
 辽宁省事业单位登记管理局,http://www.lnbwb.gov.cn/lnbwb/lnssydwdjglj/index.shtml,CN,辽宁省,,Liaoning Province,,^[a-zA-Z0-9]*$,5/14/26
+上海市市场监督管理局,https://scjgj.sh.gov.cn/,CN,上海市,,Shanghai,,^[a-zA-Z0-9]*$,2026/07/02
