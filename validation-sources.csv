@@ -106,3 +106,4 @@ Registration Agency,URL,Country,State/Province,Locality,State/Province English,L
 上海市市场监督管理局,https://scjgj.sh.gov.cn/,CN,上海市,,Shanghai,,^[a-zA-Z0-9]*$,2026/07/02
 沈阳市浑南区市场监督管理局,http://www.hunnan.gov.cn/zwgk/zwgkzdgz/zfxxgkzn/bmzn/202606/t20260626_5048142.html,CN,辽宁省,浑南区,Liaoning Province,Hunnan District,^[a-zA-Z0-9]*$,2026/07/22
 宁德市市场监督管理局,https://www.ningde.gov.cn/zwgk/szfbmzl/scjdglj/202112/t20211230_1574975.htm,CN,福建省,宁德市,Fujian Province,Ningde City,^[a-zA-Z0-9]*$,2026/07/28
+富县事业单位登记管理局,https://www.fuxian.gov.cn/zfxxgk/zc/1.html,CN,陕西省,富县,Shaanxi Province,Fu County,^[a-zA-Z0-9]*$,2026/07/29
