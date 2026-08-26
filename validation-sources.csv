@@ -111,3 +111,4 @@ Registration Agency,URL,Country,State/Province,Locality,State/Province English,L
 山东省事业单位监督管理局,https://sydwjg.sdbb.gov.cn/website/permissionNoticeAction!index.action,CN,山东省,,Shandong Province,,^[a-zA-Z0-9]*$,2026/08/03
 甘泉县事业单位登记管理局,https://www.ganquanxian.gov.cn/zfxxgk/zfxxgkzn/1.html,CN,陕西省,甘泉县,Shaanxi Province,Ganquan County,^[a-zA-Z0-9]*$,2026/08/07
 福建省事业单位登记管理局,https://bb.fujian.gov.cn/xxgk/bbgk/,CN,福建省,,Fujian Province,,^[a-zA-Z0-9]*$,2026/08/25
+洛川县事业单位登记管理局,https://www.lcx.gov.cn/zfxxgk/zfxxgkzn/1.html,CN,陕西省,洛川县,Shaanxi Province,Luochuan County,^[a-zA-Z0-9]*$,2026/08/26
