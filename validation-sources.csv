@@ -112,3 +112,4 @@ Registration Agency,URL,Country,State/Province,Locality,State/Province English,L
 甘泉县事业单位登记管理局,https://www.ganquanxian.gov.cn/zfxxgk/zfxxgkzn/1.html,CN,陕西省,甘泉县,Shaanxi Province,Ganquan County,^[a-zA-Z0-9]*$,2026/08/07
 福建省事业单位登记管理局,https://bb.fujian.gov.cn/xxgk/bbgk/,CN,福建省,,Fujian Province,,^[a-zA-Z0-9]*$,2026/08/25
 洛川县事业单位登记管理局,https://www.lcx.gov.cn/zfxxgk/zfxxgkzn/1.html,CN,陕西省,洛川县,Shaanxi Province,Luochuan County,^[a-zA-Z0-9]*$,2026/08/26
+临沂市市场监督管理局沂河新区分局,http://www.leda.gov.cn/bmml/sz/jingkaiquscjgj/jingkaiquscjgj_4665.htm,CN,山东省,沂河新区,Shandong Province,Yihe New District,^[a-zA-Z0-9]*$,2026/08/27
