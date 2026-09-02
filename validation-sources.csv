@@ -113,3 +113,4 @@ Registration Agency,URL,Country,State/Province,Locality,State/Province English,L
 福建省事业单位登记管理局,https://bb.fujian.gov.cn/xxgk/bbgk/,CN,福建省,,Fujian Province,,^[a-zA-Z0-9]*$,2026/08/25
 洛川县事业单位登记管理局,https://www.lcx.gov.cn/zfxxgk/zfxxgkzn/1.html,CN,陕西省,洛川县,Shaanxi Province,Luochuan County,^[a-zA-Z0-9]*$,2026/08/26
 临沂市市场监督管理局沂河新区分局,http://www.leda.gov.cn/bmml/sz/jingkaiquscjgj/jingkaiquscjgj_4665.htm,CN,山东省,沂河新区,Shandong Province,Yihe New District,^[a-zA-Z0-9]*$,2026/08/27
+中山市事业单位登记管理局,https://www.gdzwfw.gov.cn/portal/v2/affairs-public-depart-matters?orgId=007357520&region=442000&type=window,CN,广东省,中山市,Guangdong Province,Zhongshan City,^[a-zA-Z0-9]*$,2026/09/02
