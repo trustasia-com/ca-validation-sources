@@ -28,7 +28,7 @@ Registration Agency,URL,Country,State/Province,Locality,State/Province English,L
 天津市红桥区市场监督管理局,https://scjg.tj.gov.cn/tjshqqscjdglj/,CN,天津市,红桥区,Tianjin,Hongqiao District,^[a-zA-Z0-9]*$,10/28/25
 天津市西青区市场监督管理局,https://scjg.tj.gov.cn/tjsxqqscjdglj/,CN,天津市,西青区,Tianjin,Xiqing District,^[a-zA-Z0-9]*$,10/28/25
 天津市津南区市场监督管理局,https://scjg.tj.gov.cn/tjsjnqscjdglj/,CN,天津市,津南区,Tianjin,Jinnan District,^[a-zA-Z0-9]*$,10/28/25
-天津市武清区市场监督管理局,https://scjg.tj.gov.cn/tjsscjdglwyh_52651/hdpt/lxwm/,CN,天津市,武清区,Tianjin,Wuqing District,^[a-zA-Z0-9]*$,1/9/26
+天津市武清区市场监督管理局,https://www.tjwq.gov.cn/zwgk/zfxxgk/wbj2/qscjgj1/zfxxgkzn24/,CN,天津市,武清区,Tianjin,Wuqing District,^[a-zA-Z0-9]*$,2026/09/22
 天津市宝坻区市场监督管理局,https://scjg.tj.gov.cn/tjsbcqscjdglj_255/,CN,天津市,宝坻区,Tianjin,Baodi District,^[a-zA-Z0-9]*$,10/28/25
 天津市宁河区市场监督管理局,https://scjg.tj.gov.cn/tjsnhqscjdglj/,CN,天津市,宁河区,Tianjin,Ninghe District,^[a-zA-Z0-9]*$,10/28/25
 天津市静海区市场监督管理局,https://scjg.tj.gov.cn/tjsjhqscjdglj/,CN,天津市,静海区,Tianjin,Jinghai District,^[a-zA-Z0-9]*$,10/28/25
