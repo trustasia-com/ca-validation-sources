@@ -117,3 +117,4 @@ Registration Agency,URL,Country,State/Province,Locality,State/Province English,L
 长沙市天心区市场监督管理局,http://www.tianxin.gov.cn/zwgk8/bmxxgkml/qspaqglbgs/zzjg80/jgjs52/,CN,湖南省,天心区,Hunan Province,Tianxin District,^[a-zA-Z0-9]*$,2026/09/10
 广州市市场监督管理局,https://scjgj.gz.gov.cn/,CN,广东省,广州市,Guangdong Province,Guangzhou City,^[a-zA-Z0-9]*$,2026/09/16
 吉林省事业单位登记管理局,https://sbb.jl.gov.cn/,CN,吉林省,,Jilin Province,,^[a-zA-Z0-9]*$,2026/09/28
+嘉定区市场监督管理局,https://shichang.jiading.cn/,CN,上海市,嘉定区,Shanghai,Jiading District,^[a-zA-Z0-9]*$,2026/10/30
